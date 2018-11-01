@@ -8,7 +8,7 @@ import ListItem from './ListItem'
 
 class App extends Component {
   constructor(props) {
-
+    const abc=1
     super(props)
     console.log('constructor')
     this.state = {
