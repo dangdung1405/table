@@ -1,0 +1,62 @@
+[
+    {
+        "index": 10,
+        "img": "1.png",
+        "title": "Save/Load Customised User Layouts",
+        "content": "You can set up and customise your own favourite screen layout and save them for later usage."
+    },
+    {
+        "index": 9,
+        "img": "2.png",
+        "title": "Auto-lock (PIN) to Prevent Unauthorised Access",
+        "content": "The first thing you can do to protect your account is to set your PIN. The OpenMarkets Equix Web will be auto-locked after 5 minutes of inactivity. If anything looks suspicious, you can change your PIN immediately, other sessions will be immediately forced log-out."
+    },
+    {
+        "index": 8,
+        "img": "3.png",
+        "title": "Market News",
+        "content": "Related news tab shows ASX announcements that are related to stocks in personal watch-list and portfolio. All market tab displays everything that is submitted to ASX."
+    },
+    {
+        "index": 7,
+        "img": "4.png",
+        "title": "New Order Confirmation Screen",
+        "content": "New order confirmation screen with better visibility."
+    },
+    {
+        "index": 6,
+        "img": "5.png",
+        "title": "Country Flag for Each Stock",
+        "content": "Each stock code now has its country flag attached."
+    },
+    {
+        "index": 5,
+        "img": "6.png",
+        "title": "New Data Highlight",
+        "content": "New market pricing, news and orders are flashed to highlight updates."
+    },
+    {
+        "index": 4,
+        "img": "7.png",
+        "title": "Order Confirmation",
+        "content": "Extra step to confirm order information before placing."
+    },
+    {
+        "index": 3,
+        "img": "8.png",
+        "title": "Updated Order Pad",
+        "content": "Updated order pad to be more user friendly."
+    },
+    {
+        "index": 2,
+        "img": "9.png",
+        "title": "Market Overview",
+        "content": "Refreshed overview screen shows major ASX indices and key FX rates."
+    },
+    {
+        "index": 1,
+        "img": "10.png",
+        "title": "Account Information",
+        "content": "New widget to show account information, such as HIN, address, etc,..."
+    }
+]
