@@ -1,0 +1,3394 @@
+[
+  {
+    "key": "title",
+    "val": "Welcome to react using react-i18next"
+  },
+  {
+    "key": "Orders(Open)",
+    "val": "Orders (Open)"
+  },
+  {
+    "key": "Orders(StopLoss)",
+    "val": "Orders (Stop Loss)"
+  },
+  {
+    "key": "Orders(Filled)",
+    "val": "Orders (Filled)"
+  },
+  {
+    "key": "Orders(Cancelled)",
+    "val": "Orders (Cancelled)"
+  },
+  {
+    "key": "AllOrders(Open)",
+    "val": "All Orders (Open)"
+  },
+  {
+    "key": "AllOrders(StopLoss)",
+    "val": "All Orders (Stop Loss)"
+  },
+  {
+    "key": "AllOrders(Filled)",
+    "val": "All Orders (Filled)"
+  },
+  {
+    "key": "AllOrders(Cancelled)",
+    "val": "All Orders (Cancelled)"
+  },
+  {
+    "key": "SecurityInfo",
+    "val": "Security Info"
+  },
+  {
+    "key": "RelatedNews",
+    "val": "Market News"
+  },
+  {
+    "key": "Related_News",
+    "val": "Related News"
+  },
+  {
+    "key": "Market_News",
+    "val": "Market News"
+  },
+  {
+    "key": "All_Market",
+    "val": "All Market"
+  },
+  {
+    "key": "Please_enter_the_PIN_to_confirm",
+    "val": "Please enter the PIN to confirm"
+  },
+  {
+    "key": "Account_ID",
+    "val": "Account ID"
+  },
+  {
+    "key": "Forgot_PIN",
+    "val": "Forgot PIN"
+  },
+  {
+    "key": "Done",
+    "val": "Done"
+  },
+  {
+    "key": "Please_try_again",
+    "val": "Please try again"
+  },
+  {
+    "key": "Verify_your_new_PIN",
+    "val": "Verify your new PIN"
+  },
+  {
+    "key": "Filled_Time",
+    "val": "Filled Time"
+  },
+  {
+    "key": "Change",
+    "val": "Change"
+  },
+  {
+    "key": "Prev_Close",
+    "val": "Prev. Close"
+  },
+  {
+    "key": "NO.",
+    "val": "NO."
+  },
+  {
+    "key": "VOL",
+    "val": "VOL"
+  },
+  {
+    "key": "ADD",
+    "val": "ADD"
+  },
+  {
+    "key": "PRICE",
+    "val": "PRICE"
+  },
+  {
+    "key": "CLOSE",
+    "val": "CLOSE"
+  },
+  {
+    "key": "SP20",
+    "val": "S&P 20"
+  },
+  {
+    "key": "SP50",
+    "val": "S&P 50"
+  },
+  {
+    "key": "SP100",
+    "val": "S&P 100"
+  },
+  {
+    "key": "SP200",
+    "val": "S&P 200"
+  },
+  {
+    "key": "Top_Gainers",
+    "val": "Top Gainers"
+  },
+  {
+    "key": "Top_Losers",
+    "val": "Top Losers"
+  },
+  {
+    "key": "Top_Value",
+    "val": "Top Value"
+  },
+  {
+    "key": "Personal",
+    "val": "Personal"
+  },
+  {
+    "key": "Updated",
+    "val": "Updated"
+  },
+  {
+    "key": "Override_Ques",
+    "val": "Do you want to override existing link?"
+  },
+  {
+    "key": "Reject_Ques",
+    "val": "Are you sure to reject all overrides?"
+  },
+  {
+    "key": "Close_Position_Ques",
+    "val": "Are you sure to switch all accounts to Close Positions Only?"
+  },
+  {
+    "key": "Format_Csv_Err",
+    "val": "Unrecognised CSV Format"
+  },
+  {
+    "key": "Server_response_time",
+    "val": "Server response timed out"
+  },
+  {
+    "key": "Saxo_account_has_positions",
+    "val": "Saxo account has positions / open orders. Please close all positions and open orders "
+  },
+  {
+    "key": "Uploading",
+    "val": "Uploading"
+  },
+  {
+    "key": "OVERRIDE",
+    "val": "OVERRIDE"
+  },
+  {
+    "key": "REJECT",
+    "val": "REJECT"
+  },
+  {
+    "key": "English",
+    "val": "English"
+  },
+  {
+    "key": "Chinese",
+    "val": "Chinese (soon)"
+  },
+  {
+    "key": "Vietnamese",
+    "val": "Vietnamese (soon)"
+  },
+  {
+    "key": "Layout1",
+    "val": "Layout 1 (soon - user custom layout)"
+  },
+  {
+    "key": "Layout2",
+    "val": "Layout 2 (soon - user custom layout)"
+  },
+  {
+    "key": "Layout3",
+    "val": "Layout 3 (soon - user custom layout)"
+  },
+  {
+    "key": "Save_New_Layout ",
+    "val": "Save New Layout"
+  },
+  {
+    "key": "Save_Layout",
+    "val": "Save Layout"
+  },
+  {
+    "key": "Save_Template",
+    "val": "Save Template"
+  },
+  {
+    "key": "New_Order",
+    "val": "New Order"
+  },
+  {
+    "key": "Market",
+    "val": "Market"
+  },
+  {
+    "key": "Indices",
+    "val": "Indices"
+  },
+  {
+    "key": "Watchlist",
+    "val": "Watchlist"
+  },
+  {
+    "key": "News",
+    "val": "News"
+  },
+  {
+    "key": "Related_Everything_News",
+    "val": "Related & Everything News"
+  },
+  {
+    "key": "Analysis",
+    "val": "Analysis"
+  },
+  {
+    "key": "Company_Information",
+    "val": "Company Information"
+  },
+  {
+    "key": "Security_Infomation",
+    "val": "Security Information"
+  },
+  {
+    "key": "Chart",
+    "val": "Chart"
+  },
+  {
+    "key": "Course_of_Sales",
+    "val": "Course of Sales"
+  },
+  {
+    "key": "Market_Depth",
+    "val": "Market Depth"
+  },
+  {
+    "key": "Depth",
+    "val": "Depth"
+  },
+  {
+    "key": "Trading",
+    "val": "Trading"
+  },
+  {
+    "key": "Orders",
+    "val": "Orders"
+  },
+  {
+    "key": "Portfolio",
+    "val": "Portfolio"
+  },
+  {
+    "key": "Account",
+    "val": "Account"
+  },
+  {
+    "key": "Reports",
+    "val": "Reports"
+  },
+  {
+    "key": "Layouts",
+    "val": "Layouts"
+  },
+  {
+    "key": "Default_Layout",
+    "val": "Default Layout"
+  },
+  {
+    "key": "Default_Template",
+    "val": "Default Template"
+  },
+  {
+    "key": "User_Layout",
+    "val": "User Layout"
+  },
+  {
+    "key": "Admin_Layout",
+    "val": "Admin Layout"
+  },
+  {
+    "key": "New_Layout_1",
+    "val": "New Layout 1"
+  },
+  {
+    "key": "New_Layout_2",
+    "val": "New Layout 2"
+  },
+  {
+    "key": "Save_to_New_Layout",
+    "val": "Save to New Layout"
+  },
+  {
+    "key": "Settings",
+    "val": "Settings"
+  },
+  {
+    "key": "Setting",
+    "val": "Setting"
+  },
+  {
+    "key": "User_Info",
+    "val": "User Info"
+  },
+  {
+    "key": "Whats_New",
+    "val": "What's New"
+  },
+  {
+    "key": "Condition",
+    "val": "Condition"
+  },
+  {
+    "key": "Terms_and_Conditions_of_Use",
+    "val": "Terms and Conditions of Use"
+  },
+  {
+    "key": "Sign_Out",
+    "val": "Sign Out"
+  },
+  {
+    "key": "Are_you_sign_out",
+    "val": "Are you sure that you want to sign out?"
+  },
+  {
+    "key": "OK",
+    "val": "OK"
+  },
+  {
+    "key": "Email",
+    "val": "Email"
+  },
+  {
+    "key": "Username",
+    "val": "Username"
+  },
+  {
+    "key": "Password",
+    "val": "Password"
+  },
+  {
+    "key": "Stay_signed_in",
+    "val": "Stay signed in"
+  },
+  {
+    "key": "Incorrect_email_or_password",
+    "val": "Incorrect email or password"
+  },
+  {
+    "key": "Login_was_unsuccessful",
+    "val": "Login was unsuccessful"
+  },
+  {
+    "key": "Sign_In",
+    "val": "Sign In"
+  },
+  {
+    "key": "Layout_1",
+    "val": "Layout 1 (soon - user custom layout)"
+  },
+  {
+    "key": "Layout_2",
+    "val": "Layout 2 (soon - user custom layout)"
+  },
+  {
+    "key": "Layout_3",
+    "val": "Layout 3 (soon - user custom layout)"
+  },
+  {
+    "key": "Save_New_Layout",
+    "val": "Save New Layout"
+  },
+  {
+    "key": "Modify",
+    "val": "Modify"
+  },
+  {
+    "key": "Refresh",
+    "val": "Refresh"
+  },
+  {
+    "key": "PREV_CLOSE",
+    "val": "PREV. CLOSE"
+  },
+  {
+    "key": "Logout",
+    "val": "Logout"
+  },
+  {
+    "key": "Login",
+    "val": "Login"
+  },
+  {
+    "key": "SYMBOL",
+    "val": "SYMBOL"
+  },
+  {
+    "key": "NAME",
+    "val": "NAME"
+  },
+  {
+    "key": "LAST",
+    "val": "LAST"
+  },
+  {
+    "key": "Last_Trade",
+    "val": "Last Trade"
+  },
+  {
+    "key": "LAST_QTY",
+    "val": "LAST QTY"
+  },
+  {
+    "key": "%CHANGE",
+    "val": "%CHANGE"
+  },
+  {
+    "key": "CHANGE",
+    "val": "CHANGE"
+  },
+  {
+    "key": "OPEN",
+    "val": "OPEN"
+  },
+  {
+    "key": "HIGH",
+    "val": "HIGH"
+  },
+  {
+    "key": "LOW",
+    "val": "LOW"
+  },
+  {
+    "key": "SIDE",
+    "val": "SIDE"
+  },
+  {
+    "key": "Side",
+    "val": "Side"
+  },
+  {
+    "key": "CONDITION",
+    "val": "CONDITION"
+  },
+  {
+    "key": "SIZE",
+    "val": "SIZE"
+  },
+  {
+    "key": "FILLED",
+    "val": "FILLED"
+  },
+  {
+    "key": "LIMIT_PRICE",
+    "val": "LIMIT PRICE"
+  },
+  {
+    "key": "TRAILING_AMOUNT",
+    "val": "TRAILING AMOUNT"
+  },
+  {
+    "key": "Trailing_Amount",
+    "val": "Trailing Amount"
+  },
+  {
+    "key": "TRAILING_%",
+    "val": "TRAILING %"
+  },
+  {
+    "key": "Trailing_Percent",
+    "val": "Trailing Percent"
+  },
+  {
+    "key": "Percent",
+    "val": "Percent"
+  },
+  {
+    "key": "TRIGGER_TYPE",
+    "val": "TRIGGER TYPE"
+  },
+  {
+    "key": "STOP_PRICE",
+    "val": "STOP PRICE"
+  },
+  {
+    "key": "FILLED_PRICE",
+    "val": "FILLED PRICE"
+  },
+  {
+    "key": "DURATION",
+    "val": "DURATION"
+  },
+  {
+    "key": "ORDER_ID",
+    "val": "ORDER ID"
+  },
+  {
+    "key": "ENTRY_TIME",
+    "val": "ENTRY TIME"
+  },
+  {
+    "key": "ORDER_TYPE",
+    "val": "ORDER TYPE"
+  },
+  {
+    "key": "EXCHANGE",
+    "val": "EXCHANGE"
+  },
+  {
+    "key": "COMPANY",
+    "val": "COMPANY"
+  },
+  {
+    "key": "Modify_Order",
+    "val": "Modify Order"
+  },
+  {
+    "key": "Cancel_Order",
+    "val": "Cancel Order"
+  },
+  {
+    "key": "Limit_Price",
+    "val": "Limit Price"
+  },
+  {
+    "key": "Filled_Price",
+    "val": "Filled Price"
+  },
+  {
+    "key": "Entry_Time",
+    "val": "Entry Time"
+  },
+  {
+    "key": "Fees",
+    "val": "Fees"
+  },
+  {
+    "key": "Order_ID",
+    "val": "Order ID"
+  },
+  {
+    "key": "Company",
+    "val": "Company"
+  },
+  {
+    "key": "All",
+    "val": "All"
+  },
+  {
+    "key": "Price_Sensitive",
+    "val": "Price Sensitive"
+  },
+  {
+    "key": "Price Sensitive",
+    "val": "Price Sensitive"
+  },
+  {
+    "key": "No_Data",
+    "val": "No Data"
+  },
+  {
+    "key": "1_year_ago",
+    "val": "1 year ago"
+  },
+  {
+    "key": "years_ago",
+    "val": "years ago"
+  },
+  {
+    "key": "1_month_ago",
+    "val": "1 month ago"
+  },
+  {
+    "key": "months_ago",
+    "val": "months ago"
+  },
+  {
+    "key": "a_day_ago",
+    "val": "a day ago"
+  },
+  {
+    "key": "1_day_ago",
+    "val": "1 day ago"
+  },
+  {
+    "key": "days_ago",
+    "val": "days ago"
+  },
+  {
+    "key": "1_hour_ago",
+    "val": "1 hour ago"
+  },
+  {
+    "key": "hours_ago",
+    "val": "hours ago"
+  },
+  {
+    "key": "1_minute_ago",
+    "val": "1 minute ago"
+  },
+  {
+    "key": "minutes_ago",
+    "val": "minutes ago"
+  },
+  {
+    "key": "1_second_ago",
+    "val": "second ago"
+  },
+  {
+    "key": "seconds_ago",
+    "val": "seconds ago"
+  },
+  {
+    "key": "Temrs_header",
+    "val": "Terms of Use"
+  },
+  {
+    "key": "Temrs_Para_1",
+    "val": "Agreement to Term of Use"
+  },
+  {
+    "key": "Temrs_Para_2",
+    "val": "Use of the OpenMarkets Equix App is subject to the OpenMarkets Equix App Terms and Conditions of Use. I have read,understand and agree to be bound by, the OpenMarkets Equix App Terms and Conditions of Use which are available in the OpenMarkets Equix App menu."
+  },
+  {
+    "key": "Temrs_Para_3",
+    "val": "OpenMarkets Equix App Terms and Conditions of Use"
+  },
+  {
+    "key": "Temrs_Para_4",
+    "val": "The OpenMarkets Equix web trading application "
+  },
+  {
+    "key": "Temrs_Para_5",
+    "val": "(OpenMarkets Equix App)"
+  },
+  {
+    "key": "Temrs_Para_6",
+    "val": " is provided by OpenMarkets Australia Ltd ABN 38 090 472 012, AFSL No. 246 705 "
+  },
+  {
+    "key": "Temrs_Para_7",
+    "val": "(OpenMarkets)"
+  },
+  {
+    "key": "Temrs_Para_8",
+    "val": " under licence from Quant Edge Pty Ltd ABN 21 623 914 910 002"
+  },
+  {
+    "key": "Temrs_Para_9",
+    "val": "Application of OpenMarkets trading terms"
+  },
+  {
+    "key": "Temrs_Para_10",
+    "val": "The OpenMarkets trading terms and conditions applicable to your OpenMarkets trading account and OpenMarkets’ disclosure documents received by you upon opening of your OpenMarkets trading account (including any amendments and updates to these documents) apply to your use of the OpenMarkets Equix Web App. Those terms and conditions and disclosures apply to all dealings between you and OpenMarkets and are to be read together with these OpenMarkets Equix App Terms and Conditions of Use. You can obtain a copy of these documents by contacting OpenMarkets (contact details available at "
+  },
+  {
+    "key": "Temrs_Para_11",
+    "val": " or the financial intermediary through whom you access your OpenMarkets trading account. You acknowledge that the OpenMarkets Equix App is part of the DMA Service and DMA System provided by OpenMarkets and the DMA Service terms set out in the OpenMarkets trading terms and conditions apply to the use of the OpenMarkets Equix App."
+  },
+  {
+    "key": "Temrs_Para_12",
+    "val": "OpenMarkets is not authorised to carry on business in any other jurisdiction other than Australia. The OpenMarkets Equix App is for use by users in connection with OpenMarkets’ securities trading business operated in Australia only."
+  },
+  {
+    "key": "Temrs_Para_13",
+    "val": "Data for information purposes only and not advice"
+  },
+  {
+    "key": "Temrs_Para_14",
+    "val": "OpenMarkets does not provide personal financial advice and makes no recommendation or endorsement of any financial product available for trading using the OpenMarkets Equix App. No information or data in the OpenMarkets Equix App constitutes advice to a user or any person. Any user should, before acting on the information in the OpenMarkets Equix App, consider the appropriateness of the information, having regard to their objectives, financial situation and needs and, if necessary, seek appropriate professional advice. Any data or other information provided in the OpenMarkets Equix App, including charts and alerts, is provided for your information only and should not be relied on for taxation, investment or any other purposes. OpenMarkets does not make any representation or warranty as to the timeliness, reliability, accuracy or completeness of the material contained in the data and information in the OpenMarkets Equix App or any alerts, nor does it accept any responsibility arising in any way for errors in, or omissions from, that material."
+  },
+  {
+    "key": "Temrs_Para_15",
+    "val": "Availability of OpenMarkets Equix App"
+  },
+  {
+    "key": "Temrs_Para_16",
+    "val": "You acknowledge that at all times your access to OpenMarkets Equix App depends on factors outside OpenMarkets’ control, including any disruption, failure or malfunction in any part of the internet, mobile carriage service or other network. Access may also be limited or unavailable during periods of peak demand, systems interference, damage or maintenance, or for other reasons. You acknowledge OpenMarkets may, in its sole discretion, suspend or discontinue the OpenMarkets Equix App service at any time without notice."
+  },
+  {
+    "key": "Temrs_Para_17",
+    "val": "No OpenMarkets liability for your use of OpenMarkets Equix App"
+  },
+  {
+    "key": "Temrs_Para_18",
+    "val": "You agree that OpenMarkets will not be liable in any way for any direct or indirect loss or damage suffered by you, howsoever caused, arising from your use of the OpenMarkets Equix App, including where the OpenMarkets Equix Web App, or any component or feature of the OpenMarkets Equix App (including Alerts), fails to function in an expected or effective manner (or at all) or as a result of any unauthorised access to your securities or OpenMarkets trading accounts through OpenMarkets Equix Web App. You agree that if for any reason you are unable to access your securities or OpenMarkets trading account via the OpenMarkets Equix Web App, you can contact OpenMarkets by telephoning 1300 769 433, Monday to Friday, 8.30 am to 5.30 pm Melbourne time."
+  },
+  {
+    "key": "Temrs_Para_19",
+    "val": "Use of your personal information in the OpenMarkets Equix App"
+  },
+  {
+    "key": "Temrs_Para_20",
+    "val": "The OpenMarkets Privacy Policy applies to the collection and use of your personal information in connection with the OpenMarkets Equix App (available at "
+  },
+  {
+    "key": "Temrs_Para_21",
+    "val": "). The OpenMarkets Equix App is supported by Quant Edge Pty Ltd, a company based in Vietnam. As a result of your use of the OpenMarkets Equix App, your personal information including information contained in your OpenMarkets trading account may be disclosed to Quant Edge Pty Ltd in Vietnam. The implications of this disclosure are set out in the OpenMarkets Privacy Policy under the heading "
+  },
+  {
+    "key": "Temrs_Para_21_1",
+    "val": "Overseas disclosure of personal information"
+  },
+  {
+    "key": "Temrs_Para_21_2",
+    "val": ". You consent to OpenMarkets making this disclosure of your personal information and agree this consent remains current unless expressly withdrawn by you."
+  },
+  {
+    "key": "Temrs_Para_22",
+    "val": "OpenMarkets has entered into an agreement with Quant Edge Pty Ltd which requires Quant Edge Pty Ltd to take steps to comply with Australian privacy law. Quant Edge Pty Ltd will use your personal information for the purpose of providing to you the OpenMarkets Equix App including maintenance and support of the OpenMarkets Equix App and if Quant Edge Pty Ltd does not receive your personal information you will not be able to use the OpenMarkets Equix App. Quant Edge Pty Ltd will not disclose your personal information to any other person or entity, other than as set out in the OpenMarkets Privacy Policy."
+  },
+  {
+    "key": "Temrs_Para_23",
+    "val": "Links in the OpenMarkets Equix App"
+  },
+  {
+    "key": "Temrs_Para_24",
+    "val": "Links in the application may take you sites which are not affiliated with OpenMarkets and may be subject to different privacy policies security levels. OpenMarkets is not responsible for and does not endorse, guarantee or control content, availability, products or services that are offered or expressed on other sites. Any disclosure by you of information to any third party via a linked site will not be subject to OpenMarkets’ privacy policy or information security measures."
+  },
+  {
+    "key": "Temrs_Para_25",
+    "val": "Security and access to the OpenMarkets Equix App"
+  },
+  {
+    "key": "Temrs_Para_26",
+    "val": "You are solely responsible for your own anti-virus and mobile device security measures and those of any authorised user. You are responsible to ensure that no unauthorised persons have access to your OpenMarkets trading account and that you must keep your security information such as usernames, passwords and access codes secure. You acknowledge and agree that you are responsible for transactions on your OpenMarkets trading account using the OpenMarkets Equix App including where you fail to keep access to the OpenMarkets Equix App secure and OpenMarkets will consider trades placed on your OpenMarkets trading account via the OpenMarkets Equix App to be authorised by you. If you have enabled fingerprint or facial recognition access on your OpenMarkets Equix App, you should not have any fingerprints or facial recognition records stored on your device other than your own. If other people use their fingerprints or facial recognition on your device, you should turn off fingerprint and facial recognition access for the OpenMarkets Equix App."
+  },
+  {
+    "key": "Temrs_Para_27",
+    "val": "If you, or someone else, change the fingerprint or facial recognition settings on your device, as a security measure fingerprint and/or facial recognition access will be disabled for the OpenMarkets Equix App and you will be prompted to enter your PIN or password to log on to the OpenMarkets Equix App. Only re-enable fingerprint or facial recognition access if you are sure the changes made to your fingerprint or facial recognition settings on your device were made by you.  OpenMarkets is not responsible for any malfunction in fingerprint or facial recognition functionality or changes to fingerprint or facial recognition technology that impacts the way you access the OpenMarkets Equix App."
+  },
+  {
+    "key": "Temrs_Para_28",
+    "val": "Alerts"
+  },
+  {
+    "key": "Temrs_Para_29",
+    "val": "The OpenMarkets Equix App may allow you to elect to receive alerts via a push notification service or email. Alerts sent via push notification will be sent to any device on which you have installed and registered the OpenMarkets Equix App with notifications enabled. Alerts could be seen by others (including unauthorised persons) who use or access your device. It is your responsibility to check the \"Notifications\" settings on all your devices to ensure the privacy and alerts settings are appropriate for your use."
+  },
+  {
+    "key": "Temrs_Para_30",
+    "val": "Changes to OpenMarkets Equix App Terms and Conditions of Use"
+  },
+  {
+    "key": "Temrs_Para_31",
+    "val": "Any amendment to the OpenMarkets Equix App Terms and Conditions of Use will be published in the OpenMarkets Equix App and can be accessed on the OpenMarkets Equix App menu. You agree your continued use of the OpenMarkets Equix App after receiving notice of an amendment to the OpenMarkets Equix App Terms and Conditions of Use will constitute your agreement to the amended OpenMarkets Equix App Terms and Conditions of Use."
+  },
+  {
+    "key": "Temrs_Dont_display_again",
+    "val": "Don’t display again"
+  },
+  {
+    "key": "Temrs_I_Accept",
+    "val": "I ACCEPT"
+  },
+  {
+    "key": "Halt",
+    "val": "Halt"
+  },
+  {
+    "key": "Halt_Lifted",
+    "val": "Halt Lifted"
+  },
+  {
+    "key": "Sensitive",
+    "val": "Sensitive"
+  },
+  {
+    "key": "Amend",
+    "val": "Amend"
+  },
+  {
+    "key": "Cancel",
+    "val": "Cancel"
+  },
+  {
+    "key": "Place",
+    "val": "Place "
+  },
+  {
+    "key": "Unknown",
+    "val": "Unknown"
+  },
+  {
+    "key": "On_Market",
+    "val": "On Market"
+  },
+  {
+    "key": "Partial_Fill",
+    "val": "Partial Fill"
+  },
+  {
+    "key": "PartiallyFilled",
+    "val": "Partially Filled"
+  },
+  {
+    "key": "Filled",
+    "val": "Filled"
+  },
+  {
+    "key": "Done_For_Day",
+    "val": "Done For Day"
+  },
+  {
+    "key": "Cancelled",
+    "val": "Cancelled"
+  },
+  {
+    "key": "Amended",
+    "val": "Amended"
+  },
+  {
+    "key": "Cancelling",
+    "val": "Cancelling"
+  },
+  {
+    "key": "Announcement",
+    "val": "Announcement"
+  },
+  {
+    "key": "announcement",
+    "val": "Announcement"
+  },
+  {
+    "key": "Stopped",
+    "val": "Stopped"
+  },
+  {
+    "key": "Rejected",
+    "val": "Rejected"
+  },
+  {
+    "key": "Reject_Cancel",
+    "val": "Reject Cancel"
+  },
+  {
+    "key": "Reject",
+    "val": "Reject"
+  },
+  {
+    "key": "Suspended",
+    "val": "Suspended"
+  },
+  {
+    "key": "Pending",
+    "val": "Pending"
+  },
+  {
+    "key": "Reject_Amend",
+    "val": "Reject Amend"
+  },
+  {
+    "key": "Calculated",
+    "val": "Calculated"
+  },
+  {
+    "key": "Expired",
+    "val": "Expired"
+  },
+  {
+    "key": "Accepted_For_Bidding",
+    "val": "Accepted For Bidding"
+  },
+  {
+    "key": "Amending",
+    "val": "Amending"
+  },
+  {
+    "key": "Triggered",
+    "val": "Triggered"
+  },
+  {
+    "key": "B",
+    "val": "B"
+  },
+  {
+    "key": "BUY",
+    "val": "BUY"
+  },
+  {
+    "key": "PLACE_BUY_ORDER",
+    "val": "PLACE BUY ORDER"
+  },
+  {
+    "key": "PLACE_SELL_ORDER",
+    "val": "PLACE SELL ORDER"
+  },
+  {
+    "key": "BUYING",
+    "val": "BUYING"
+  },
+  {
+    "key": "SELLING",
+    "val": "SELLING"
+  },
+  {
+    "key": "Buy",
+    "val": "Buy"
+  },
+  {
+    "key": "S",
+    "val": "S"
+  },
+  {
+    "key": "SELL",
+    "val": "SELL"
+  },
+  {
+    "key": "Sell",
+    "val": "Sell"
+  },
+  {
+    "key": "Last",
+    "val": "Last"
+  },
+  {
+    "key": "Open",
+    "val": "Open"
+  },
+  {
+    "key": "Size",
+    "val": "Size"
+  },
+  {
+    "key": "High",
+    "val": "High"
+  },
+  {
+    "key": "REDUCE",
+    "val": "REDUCE"
+  },
+  {
+    "key": "Net_Change",
+    "val": "Net Change"
+  },
+  {
+    "key": "Low",
+    "val": "Low"
+  },
+  {
+    "key": "%Change",
+    "val": "%Change"
+  },
+  {
+    "key": "Close",
+    "val": "Close"
+  },
+  {
+    "key": "Bid",
+    "val": "Bid"
+  },
+  {
+    "key": "B-Size",
+    "val": "B-Size"
+  },
+  {
+    "key": "Bid_Vol",
+    "val": "Bid Vol"
+  },
+  {
+    "key": "Bid_Qty",
+    "val": "Bid Qty"
+  },
+  {
+    "key": "Ask_Qty",
+    "val": "Ask Qty"
+  },
+  {
+    "key": "Ask_Vol",
+    "val": "Ask Vol"
+  },
+  {
+    "key": "Ask",
+    "val": "Ask"
+  },
+  {
+    "key": "A-Size",
+    "val": "A-Size"
+  },
+  {
+    "key": "Volume",
+    "val": "Volume"
+  },
+  {
+    "key": "Today_Volume",
+    "val": "Today Volume"
+  },
+  {
+    "key": "Previous_Close",
+    "val": "Previous Close"
+  },
+  {
+    "key": "TOTAL_(AUD)",
+    "val": "TOTAL (AUD)"
+  },
+  {
+    "key": "TOTAL_UPnL_(AUD)",
+    "val": "TOTAL UPnL (AUD)"
+  },
+  {
+    "key": "AUD",
+    "val": "AUD"
+  },
+  {
+    "key": "CASH_BALANCE",
+    "val": "CASH BALANCE"
+  },
+  {
+    "key": "PENDING_BUY_ORDER",
+    "val": "PENDING BUY ORDER"
+  },
+  {
+    "key": "NET_EXPOSURE",
+    "val": "NET EXPOSURE"
+  },
+  {
+    "key": "CASH_AVAILABLE",
+    "val": "CASH AVAILABLE"
+  },
+  {
+    "key": "VOLUME",
+    "val": "VOLUME"
+  },
+  {
+    "key": "TODAY_VOLUME",
+    "val": "TODAY VOLUME"
+  },
+  {
+    "key": "VALUE_TRADE",
+    "val": "VALUE TRADE"
+  },
+  {
+    "key": "FEES",
+    "val": "FEES"
+  },
+  {
+    "key": "CANCEL",
+    "val": "CANCEL"
+  },
+  {
+    "key": "CONFIRM",
+    "val": "CONFIRM"
+  },
+  {
+    "key": "MRK_PRICE",
+    "val": "MRK PRICE"
+  },
+  {
+    "key": "AVR_PRICE",
+    "val": "AVR PRICE"
+  },
+  {
+    "key": "VALUE",
+    "val": "VALUE"
+  },
+  {
+    "key": "UPnL",
+    "val": "UPnL"
+  },
+  {
+    "key": "%UPnL",
+    "val": "%UPnL"
+  },
+  {
+    "key": "UPnL_TODAY",
+    "val": "UPnL TODAY"
+  },
+  {
+    "key": "%UPnL_TODAY",
+    "val": "%UPnL TODAY"
+  },
+  {
+    "key": "ACTION",
+    "val": "ACTION"
+  },
+  {
+    "key": "cent",
+    "val": "cent"
+  },
+  {
+    "key": "Note_1_on_NewOrder",
+    "val": "A Market to Limit order to"
+  },
+  {
+    "key": "Note_2_on_NewOrder",
+    "val": "is submitted as a market order to execute at the best"
+  },
+  {
+    "key": "Note_3_on_NewOrder",
+    "val": "price available in the market. If the order is only partially filled, the remaining quantity of the order is cancelled and re-submitted as a limit order with the limit price equal to the price at which the filled portion of the order is executed."
+  },
+  {
+    "key": "Note_4_on_NewOrder",
+    "val": "A Limit order to"
+  },
+  {
+    "key": "Note_5_on_NewOrder",
+    "val": "can only be executed at "
+  },
+  {
+    "key": "Note_16_on_NewOrder",
+    "val": "A Market order to"
+  },
+  {
+    "key": "Note_17_on_NewOrder",
+    "val": "is submitted to execute at the best "
+  },
+  {
+    "key": "Note_18_on_NewOrder",
+    "val": "price available in the market."
+  },
+  {
+    "key": "Note_19_on_NewOrder",
+    "val": "A Stop order to "
+  },
+  {
+    "key": "Note_20_on_NewOrder",
+    "val": "contains both a stop price and a market price. When market price"
+  },
+  {
+    "key": "Note_21_on_NewOrder",
+    "val": "or surpasses it, the stop price is triggered and the order will become a market order to "
+  },
+  {
+    "key": "Note_22_on_NewOrder",
+    "val": "at market price."
+  },
+  {
+    "key": "Note_23_on_NewOrder",
+    "val": "A Limit order to "
+  },
+  {
+    "key": "Note_25_on_NewOrder",
+    "val": "or lower."
+  },
+  {
+    "key": "or",
+    "val": "or"
+  },
+  {
+    "key": "Note_6_on_NewOrder",
+    "val": "A Stop Limit order to"
+  },
+  {
+    "key": "Note_1_stoploss_on_NewOrder",
+    "val": "A Stop Loss order to"
+  },
+  {
+    "key": "Note_2_stoploss_on_NewOrder",
+    "val": "contains both a stop price and a market price. When market price"
+  },
+  {
+    "key": "Note_3_stoploss_on_NewOrder",
+    "val": "or surpasses it, the stop price is triggered and the order will become a market order to"
+  },
+  {
+    "key": "Note_1_trailingstoplimit_on_NewOrder",
+    "val": " A Trailing Stop Limit order to"
+  },
+  {
+    "key": "Note_2_trailingstoplimit_on_NewOrder",
+    "val": "contains trailing stop price,"
+  },
+  {
+    "key": "Note_3_trailingstoplimit_on_NewOrder",
+    "val": "and limit price. The initial trailing stop price is"
+  },
+  {
+    "key": "Note_4_trailingstoplimit_on_NewOrder",
+    "val": "If the market price"
+  },
+  {
+    "key": "Note_6_trailingstoplimit_on_NewOrder",
+    "val": "the trailing stop price will move lower, and be equal to market price plus"
+  },
+  {
+    "key": "Note_5_trailingstoplimit_on_NewOrder",
+    "val": "However, if the market price"
+  },
+  {
+    "key": "Note_7_trailingstoplimit_on_NewOrder",
+    "val": "the trailing stop price will remain the same. Once the stop price is triggered, the order will become a limit order to"
+  },
+  {
+    "key": "market_price",
+    "val": "market price"
+  },
+  {
+    "key": "trailing_amount",
+    "val": "trailing amount"
+  },
+  {
+    "key": "Note_7_on_NewOrder",
+    "val": "contains both a stop price and a limit price. When market price"
+  },
+  {
+    "key": "Note_8_on_NewOrder",
+    "val": "or surpasses it, the stop price is triggered and the order will become a limit order to"
+  },
+  {
+    "key": "at",
+    "val": "at"
+  },
+  {
+    "key": "to",
+    "val": "to"
+  },
+  {
+    "key": "Best",
+    "val": "Best"
+  },
+  {
+    "key": "and",
+    "val": "and"
+  },
+  {
+    "key": "increases to",
+    "val": "increases to"
+  },
+  {
+    "key": "is_Amended",
+    "val": "is Amended"
+  },
+  {
+    "key": "or_higher",
+    "val": "or higher"
+  },
+  {
+    "key": "or_lower",
+    "val": "or lower"
+  },
+  {
+    "key": "Note_9_on_NewOrder",
+    "val": "Note: OpenMarkets Equix currently supports a sell stop limit order only, a buy stop limit order will be included in the later version soon"
+  },
+  {
+    "key": "Order_to",
+    "val": "Order to "
+  },
+  {
+    "key": "Order_from",
+    "val": "Order from"
+  },
+  {
+    "key": "of",
+    "val": "of"
+  },
+  {
+    "key": "Amending_Order",
+    "val": "Amending Order"
+  },
+  {
+    "key": "MARKET_Price",
+    "val": "MARKET Price"
+  },
+  {
+    "key": "Trigger_at",
+    "val": "Trigger at"
+  },
+  {
+    "key": "Trigger",
+    "val": "Trigger"
+  },
+  {
+    "key": "MODIFY_to_BUY_/",
+    "val": "MODIFY to BUY /"
+  },
+  {
+    "key": "MODIFY_to_SELL_/",
+    "val": "MODIFY to SELL /"
+  },
+  {
+    "key": "Order_Type",
+    "val": "Order Type"
+  },
+  {
+    "key": "Stop_(Trigger)_Price",
+    "val": "Stop (Trigger) Price"
+  },
+  {
+    "key": "Stop_Price",
+    "val": "Stop Price"
+  },
+  {
+    "key": "Placing_Order",
+    "val": "Placing Order"
+  },
+  {
+    "key": "No_Saxo_Trading",
+    "val": "No Saxo Trading"
+  },
+  {
+    "key": "Allow_to_Trade",
+    "val": "Allow to Trade"
+  },
+  {
+    "key": "Close_Positions_Only",
+    "val": "Close Positions Only"
+  },
+  {
+    "key": "Success",
+    "val": "Success"
+  },
+  {
+    "key": "Successful_!",
+    "val": "Successful !"
+  },
+  {
+    "key": "Error",
+    "val": "Error"
+  },
+  {
+    "key": "ERROR_CHANGE",
+    "val": "Trading Status cannot be changed to No Saxo Trading due to Saxo Account Value is not ZERO"
+  },
+  {
+    "key": "Note_10_on_NewOrder",
+    "val": "Cash Available to Trade is"
+  },
+  {
+    "key": "Note_11_on_NewOrder",
+    "val": "Order value is"
+  },
+  {
+    "key": "Note_12_on_NewOrder",
+    "val": "Estimated fees are"
+  },
+  {
+    "key": "BID",
+    "val": "BID"
+  },
+  {
+    "key": "ASK",
+    "val": "ASK"
+  },
+  {
+    "key": "Exchange",
+    "val": "Exchange"
+  },
+  {
+    "key": "Description",
+    "val": "Description"
+  },
+  {
+    "key": "Show_More",
+    "val": "Show More"
+  },
+  {
+    "key": "Show_Less",
+    "val": "Show Less"
+  },
+  {
+    "key": "SUMMARY",
+    "val": "SUMMARY"
+  },
+  {
+    "key": "Summary",
+    "val": "Summary"
+  },
+  {
+    "key": "Order_Value",
+    "val": "Order Value"
+  },
+  {
+    "key": "Estimated_Fees",
+    "val": "Estimated Fees"
+  },
+  {
+    "key": "Duration",
+    "val": "Duration"
+  },
+  {
+    "key": "Good_Till_Cancelled",
+    "val": "Good Till Cancelled"
+  },
+  {
+    "key": "Fill_Or_Kill",
+    "val": "Fill Or Kill"
+  },
+  {
+    "key": "DAY",
+    "val": "DAY"
+  },
+  {
+    "key": "Immediate_Or_Cancel",
+    "val": "Immediate Or Cancel"
+  },
+  {
+    "key": "STOP",
+    "val": "STOP"
+  },
+  {
+    "key": "LIMIT",
+    "val": "LIMIT"
+  },
+  {
+    "key": "MARKET",
+    "val": "MARKET"
+  },
+  {
+    "key": "MARKET_TO_LIMIT",
+    "val": "MARKET TO LIMIT"
+  },
+  {
+    "key": "TRAILING_STOP",
+    "val": "TRAILING_STOP"
+  },
+  {
+    "key": "TRAILING_STOP_LIMIT",
+    "val": "TRAILING STOP LIMIT"
+  },
+  {
+    "key": "TSL",
+    "val": "TSL"
+  },
+  {
+    "key": "Trailing_Stop_Limit",
+    "val": "Trailing Stop Limit"
+  },
+  {
+    "key": "STOP-LOSS",
+    "val": "STOP-LOSS"
+  },
+  {
+    "key": "STOP_LOSS",
+    "val": "STOP LOSS"
+  },
+  {
+    "key": "TRAILING_STOP_PRICE",
+    "val": "TRAILING STOP PRICE"
+  },
+  {
+    "key": "Stop",
+    "val": "Stop"
+  },
+  {
+    "key": "Limit",
+    "val": "Limit"
+  },
+  {
+    "key": "Market_To_Limit",
+    "val": "Market To Limit"
+  },
+  {
+    "key": "Trailing_Stop",
+    "val": "Trailing Stop"
+  },
+  {
+    "key": "Stop_Loss",
+    "val": "Stop Loss"
+  },
+  {
+    "key": "Stop_Limit",
+    "val": "Stop Limit"
+  },
+  {
+    "key": "TrailingStopLoss",
+    "val": "TrailingStopLoss"
+  },
+  {
+    "key": "OrderVolumeZero",
+    "val": "Quantity must be greater than 0"
+  },
+  {
+    "key": "OrderLimitPriceZero",
+    "val": "Please enter a valid limit price"
+  },
+  {
+    "key": "OrderStopPriceZero",
+    "val": "Please enter a valid stop price"
+  },
+  {
+    "key": "AccountMustBeSelectedFirst",
+    "val": "Account must be selected "
+  },
+  {
+    "key": "TrailingStopPriceZero",
+    "val": "Please enter a valid trailing stop price"
+  },
+  {
+    "key": "TrailingAmountZero",
+    "val": "Please enter a valid trailing amount/percent"
+  },
+  {
+    "key": "Day",
+    "val": "Day"
+  },
+  {
+    "key": "Week",
+    "val": "Week"
+  },
+  {
+    "key": "Month",
+    "val": "Month"
+  },
+  {
+    "key": "Quarter",
+    "val": "Quarter"
+  },
+  {
+    "key": "Year",
+    "val": "Year"
+  },
+  {
+    "key": "YES",
+    "val": "YES"
+  },
+  {
+    "key": "NO",
+    "val": "NO"
+  },
+  {
+    "key": "Cash",
+    "val": "Cash"
+  },
+  {
+    "key": "Holdings",
+    "val": "Holdings"
+  },
+  {
+    "key": "Holding",
+    "val": "Holding"
+  },
+  {
+    "key": "Summary_Information",
+    "val": "Summary Information"
+  },
+  {
+    "key": "FINANCIAL_SUMMARY",
+    "val": "FINANCIAL SUMMARY "
+  },
+  {
+    "key": "Cash/Holding_Chart",
+    "val": "Cash/Holding Chart"
+  },
+  {
+    "key": "Total_Portfolio_Value",
+    "val": "Total Portfolio Value"
+  },
+  {
+    "key": "Net_Trade_Flows",
+    "val": "Net Trade Flows"
+  },
+  {
+    "key": "Total_Brokerage",
+    "val": "Total Brokerage"
+  },
+  {
+    "key": "HOLDINGS_VALUATION",
+    "val": "HOLDINGS VALUATION "
+  },
+  {
+    "key": "Holdings_Valuation_at",
+    "val": "Holdings Valuation at"
+  },
+  {
+    "key": "Symbol",
+    "val": "Symbol"
+  },
+  {
+    "key": "Code",
+    "val": "Code"
+  },
+  {
+    "key": "Last_Trade_(Quantity)",
+    "val": "Last Trade (Quantity)"
+  },
+  {
+    "key": "Todays_Change",
+    "val": "Today's Change"
+  },
+  {
+    "key": "Company_Name",
+    "val": "Company Name"
+  },
+  {
+    "key": "COMPANY NAME",
+    "val": "COMPANY NAME"
+  },
+  {
+    "key": "Quantity",
+    "val": "Quantity"
+  },
+  {
+    "key": "Price",
+    "val": "Price"
+  },
+  {
+    "key": "Value",
+    "val": "Value"
+  },
+  {
+    "key": "Other",
+    "val": "Other"
+  },
+  {
+    "key": "ORTHERS",
+    "val": "ORTHERS"
+  },
+  {
+    "key": "TRANSACTION_SUMMARY",
+    "val": "TRANSACTION SUMMARY "
+  },
+  {
+    "key": "TYPE",
+    "val": "TYPE"
+  },
+  {
+    "key": "DATE",
+    "val": "DATE"
+  },
+  {
+    "key": "QUANTITY",
+    "val": "QUANTITY"
+  },
+  {
+    "key": "QTY",
+    "val": "QTY"
+  },
+  {
+    "key": "BROKERAGE",
+    "val": "BROKERAGE"
+  },
+  {
+    "key": "GST",
+    "val": "GST"
+  },
+  {
+    "key": "OTHER_FEES",
+    "val": "OTHER FEES"
+  },
+  {
+    "key": "TOTAL",
+    "val": "TOTAL"
+  },
+  {
+    "key": "CASH_ACCOUNT_SUMMARY",
+    "val": "CASH ACCOUNT SUMMARY "
+  },
+  {
+    "key": "Cash_at_Start_of_period",
+    "val": "Cash at Start of Period"
+  },
+  {
+    "key": "Total_Fees",
+    "val": "Total Fees"
+  },
+  {
+    "key": "Cash_at_End_of_period",
+    "val": "Cash at End of Period"
+  },
+  {
+    "key": "MKT",
+    "val": "MKT"
+  },
+  {
+    "key": "Stop-Loss",
+    "val": "Stop-Loss"
+  },
+  {
+    "key": "Stop-Limit",
+    "val": "Stop-Limit"
+  },
+  {
+    "key": "Start_a_Buy_Order",
+    "val": "Start a Buy Order"
+  },
+  {
+    "key": "Start_a_Sell_Order",
+    "val": "Start a Sell Order"
+  },
+  {
+    "key": "page",
+    "val": "Page"
+  },
+  {
+    "key": "pages",
+    "val": "Pages"
+  },
+  {
+    "key": "No_attachment",
+    "val": "No Attachment"
+  },
+  {
+    "key": "Go",
+    "val": "Go"
+  },
+  {
+    "key": "Market_Price",
+    "val": "Market Price"
+  },
+  {
+    "key": "LMT",
+    "val": "LMT"
+  },
+  {
+    "key": "Set_PIN",
+    "val": "Set PIN"
+  },
+  {
+    "key": "Next",
+    "val": "Next"
+  },
+  {
+    "key": "Operation",
+    "val": "Operation"
+  },
+  {
+    "key": "Saxo_Clients_Management",
+    "val": "Saxo Clients Management"
+  },
+  {
+    "key": "Enter_a_PIN",
+    "val": "Enter a PIN"
+  },
+  {
+    "key": "Enter_PIN_for_OM_EQUIX",
+    "val": "Enter PIN for OM EQUIX"
+  },
+  {
+    "key": "PIN_for",
+    "val": "PIN for"
+  },
+  {
+    "key": "Bid_Price",
+    "val": "Bid Price"
+  },
+  {
+    "key": "Offer",
+    "val": "Offer"
+  },
+  {
+    "key": "Offer_Price",
+    "val": "Offer Price"
+  },
+  {
+    "key": "Offer_Qty",
+    "val": "Offer Qty"
+  },
+  {
+    "key": "Upload_Links_CSV",
+    "val": "Upload Links CSV"
+  },
+  {
+    "key": "Last_Updated",
+    "val": "Last Updated"
+  },
+  {
+    "key": "Saxo_Note_Yellow",
+    "val": "Incorrect client information, accounts could not be linked"
+  },
+  {
+    "key": "Saxo_Note_Red",
+    "val": "Accounts are not linked"
+  },
+  {
+    "key": "Switch_All_Accounts",
+    "val": "Switch All Accounts to Close Positions Only"
+  },
+  {
+    "key": "Reject_All_Overrides",
+    "val": "Reject All Overrides"
+  },
+  {
+    "key": "Change_(%)",
+    "val": "Change (%)"
+  },
+  {
+    "key": "OrderStopPriceCanNotBeLessAskPrice",
+    "val": "Stop price cannot be less than offer price"
+  },
+  {
+    "key": "OrderStopPriceCanNotGreaterLimitPrice",
+    "val": "Stop price cannot be greater than limit price"
+  },
+  {
+    "key": "OrderStopPriceCanNotGreaterBidPrice",
+    "val": "Stop price cannot be greater than bid price"
+  },
+  {
+    "key": "VolumeMoreThanFilled",
+    "val": "Amended quantity must be greater than filled quantity"
+  },
+  {
+    "key": "OrderStopPriceCanNotLessLimitPrice",
+    "val": "Stop price cannot be less than limit price "
+  },
+  {
+    "key": "TrailingStopPriceCanNotGreaterAskPrice",
+    "val": "Trailing Stop price cannot be greater than offer price"
+  },
+  {
+    "key": "TrailingStopPriceCanNotGreaterLimitPrice",
+    "val": "Trailing Stop price cannot be greater than limit price"
+  },
+  {
+    "key": "TrailingStopPriceCanNotGreaterBidPrice",
+    "val": "Trailing Stop price cannot be greater than bid price"
+  },
+  {
+    "key": "TrailingStopPriceCanNotLessLimitPrice",
+    "val": "Trailing Stop price cannot be less than limit price "
+  },
+  {
+    "key": "CodeMustBeSelectedFirst",
+    "val": "Code must be selected first"
+  },
+  {
+    "key": "First_Set_Pin_Description",
+    "val": "This is the first time you login OpenMarkets Equix or you have recently reset PIN. Thus you must set a PIN to continue. This PIN will help you login quickly and protect your accounts."
+  },
+  {
+    "key": "STOP_LIMIT",
+    "val": "STOP LIMIT"
+  },
+  {
+    "key": "ING",
+    "val": "ING"
+  },
+  {
+    "key": "and_Trailing_Amount_at",
+    "val": "and Trailing Amount at"
+  },
+  {
+    "key": "and_Trailing_Percent_at",
+    "val": "and Trailing Percent at"
+  },
+  {
+    "key": "increases",
+    "val": "increases"
+  },
+  {
+    "key": "decreases",
+    "val": "decreases"
+  },
+  {
+    "key": "trailing_percent",
+    "val": "trailing percent"
+  },
+  {
+    "key": "Enter_your_old_PIN",
+    "val": "Enter your old PIN"
+  },
+  {
+    "key": "Enter_your_new_PIN",
+    "val": "Enter your new PIN"
+  },
+  {
+    "key": "Failed_PIN_Attempt",
+    "val": "Failed PIN Attempt"
+  },
+  {
+    "key": "Failed_PIN_Attempts",
+    "val": "Failed PIN Attempts"
+  },
+  {
+    "key": "Enter_new_PIN",
+    "val": "This is the first time you login OpenMarkets Equix or you have recently reset PIN. Thus you must set a PIN to continue. This PIN will help you login quickly and protect your accounts."
+  },
+  {
+    "key": "Your_PIN_has_been_changed_successfully",
+    "val": "Your PIN has been changed successfully"
+  },
+  {
+    "key": "You_must_set_a_PIN_before_closing_settings",
+    "val": "You must set a PIN before closing settings"
+  },
+  {
+    "key": "Show_Only_Price_Sensitive_Notifications",
+    "val": "Show Only Price Sensitive Notifications"
+  },
+  {
+    "key": "Show_All_Related_News_Notifications",
+    "val": "Show All Related News Notifications"
+  },
+  {
+    "key": "Show_On_Market_Notifications",
+    "val": "Show New Notifications"
+  },
+  {
+    "key": "Show_Filled_Notifications",
+    "val": "Show Filled Notifications"
+  },
+  {
+    "key": "Show_Partial_Filled_Notifications",
+    "val": "Show Partially Filled Notifications"
+  },
+  {
+    "key": "Show_Rejected_Order_Notifications",
+    "val": "Show Rejected Order Notifications"
+  },
+  {
+    "key": "Show_Cancelled_Notifications",
+    "val": "Show Cancelled Notifications"
+  },
+  {
+    "key": "Show_Expired_Notifications",
+    "val": "Show Expired Notifications"
+  },
+  {
+    "key": "Change_PIN",
+    "val": "Change PIN"
+  },
+  {
+    "key": "Reset_Your_PIN",
+    "val": "Reset Your PIN"
+  },
+  {
+    "key": "Please_enter_your_password",
+    "val": "Please enter your password"
+  },
+  {
+    "key": "Incorrect_Password",
+    "val": "Incorrect Password"
+  },
+  {
+    "key": "Version_2_7_12_build_2018",
+    "val": "Version 2.7.12 build 2018"
+  },
+  {
+    "key": "App_Store",
+    "val": "App Store"
+  },
+  {
+    "key": "Download_on_App_Store",
+    "val": "Download on App Store"
+  },
+  {
+    "key": "Google_Play",
+    "val": "Google Play"
+  },
+  {
+    "key": "Android_App_on_Google_Play",
+    "val": "Android App on Google Play"
+  },
+  {
+    "key": "Website",
+    "val": "Website"
+  },
+  {
+    "key": "Price_Source",
+    "val": "Price Source"
+  },
+  {
+    "key": "Click2Refresh",
+    "val": "Click2Refresh"
+  },
+  {
+    "key": "Show_Notifications",
+    "val": "Show Notifications"
+  },
+  {
+    "key": "News_Notifications",
+    "val": "News Notifications"
+  },
+  {
+    "key": "Order_Notifications",
+    "val": "Order Notifications"
+  },
+  {
+    "key": "Authentication",
+    "val": "Authentication"
+  },
+  {
+    "key": "Language",
+    "val": "Language"
+  },
+  {
+    "key": "PIN_did_not_match_Try_again",
+    "val": "PIN did not match. Try again"
+  },
+  {
+    "key": "DarkTheme",
+    "val": "Dark Theme"
+  },
+  {
+    "key": "LightTheme",
+    "val": "Light Theme"
+  },
+  {
+    "key": "Theme",
+    "val": "Theme"
+  },
+  {
+    "key": "Back",
+    "val": "Back"
+  },
+  {
+    "key": "--",
+    "val": "--"
+  },
+  {
+    "key": "Units_of",
+    "val": "Units of"
+  },
+  {
+    "key": "Unit_of",
+    "val": "Unit of"
+  },
+  {
+    "key": "Actor",
+    "val": "Actor"
+  },
+  {
+    "key": "MTL",
+    "val": "MTL"
+  },
+  {
+    "key": "PendingNew",
+    "val": "Pending New"
+  },
+  {
+    "key": "Replaced",
+    "val": "Replaced"
+  },
+  {
+    "key": "Canceled",
+    "val": "Canceled"
+  },
+  {
+    "key": "PendingCancel",
+    "val": "Pending Cancel"
+  },
+  {
+    "key": "PendingReplace",
+    "val": "Pending Replace"
+  },
+  {
+    "key": "New",
+    "val": "New"
+  },
+  {
+    "key": "Replace",
+    "val": "Replace"
+  },
+  {
+    "key": "Enter_PIN",
+    "val": "Enter PIN"
+  },
+  {
+    "key": "Market_to_Limit",
+    "val": "Market to Limit"
+  },
+  {
+    "key": "title_1",
+    "val": "Save/Load Customised User Layouts"
+  },
+  {
+    "key": "content_1",
+    "val": "You can set up and customise your own favourite screen layout and save them for later usage."
+  },
+  {
+    "key": "title_2",
+    "val": "Auto-lock (PIN) to Prevent Unauthorised Access"
+  },
+  {
+    "key": "content_2",
+    "val": "The first thing you can do to protect your account is to set your PIN. The OpenMarkets Equix Web will be auto-locked after 5 minutes of inactivity. If anything looks suspicious, you can change your PIN immediately, other sessions will be immediately forced log-out."
+  },
+  {
+    "key": "title_3",
+    "val": "Market News"
+  },
+  {
+    "key": "content_3",
+    "val": "Related news tab shows ASX announcements that are related to stocks in personal watch-list and portfolio. All market tab displays everything that is submitted to ASX."
+  },
+  {
+    "key": "ACCOUNT_BALANCE",
+    "val": "ACCOUNT BALANCE"
+  },
+  {
+    "key": "Portfolio_Summary",
+    "val": "Portfolio Summary"
+  },
+  {
+    "key": "AVAILABLE_BALANCE",
+    "val": "AVAILABLE BALANCE"
+  },
+  {
+    "key": "CASH_AVAILABLE_TO_TRADE",
+    "val": "Cash Available to Trade"
+  },
+  {
+    "key": "OPEN_ORDERS",
+    "val": "OPEN ORDERS"
+  },
+  {
+    "key": "PENDING_SETTLEMENTS",
+    "val": "PENDING SETTLEMENTS"
+  },
+  {
+    "key": "CASH_AT_BANK",
+    "val": "CASH AT BANK"
+  },
+  {
+    "key": "TOTAL_MARKET_VALUE",
+    "val": "TOTAL MARKET VALUE"
+  },
+  {
+    "key": "SECURITIES_AT_MARKET_VALUE",
+    "val": "Securities at Market Value"
+  },
+  {
+    "key": "TODAY’S_CHANGE",
+    "val": "Today's change"
+  },
+  {
+    "key": "%_TODAY’S_CHANGE",
+    "val": "%Today's change"
+  },
+  {
+    "key": "TOTAL_PROFIT/LOSS",
+    "val": "TOTAL PROFIT/LOSS"
+  },
+  {
+    "key": "TOTAL_GAIN/LOSS",
+    "val": "Total Gain/Loss"
+  },
+  {
+    "key": "%_TOTAL_PROFIT/LOSS",
+    "val": "% TOTAL PROFIT/LOSS"
+  },
+  {
+    "key": "%TOTAL_GAIN/LOSS",
+    "val": "%Total Gain/Loss"
+  },
+  {
+    "key": "DEMO",
+    "val": "DEMO"
+  },
+  {
+    "key": "PROFIT/LOSS",
+    "val": "PROFIT/LOSS"
+  },
+  {
+    "key": "%PROFIT/LOSS",
+    "val": "%PROFIT/LOSS"
+  },
+  {
+    "key": "%TODAY’S_CHANGE",
+    "val": "%Today's change"
+  },
+  {
+    "key": "Financial_Summary",
+    "val": "Financial Summary"
+  },
+  {
+    "key": "Holdings_Valuation",
+    "val": "Holdings Valuation"
+  },
+  {
+    "key": "Cash_Account_Summary",
+    "val": "Cash Account Summary"
+  },
+  {
+    "key": "Transaction_Summary",
+    "val": "Transaction Summary"
+  },
+  {
+    "key": "Start_of_period",
+    "val": "Start of period"
+  },
+  {
+    "key": "End_of_period",
+    "val": "End of period"
+  },
+  {
+    "key": "Filter",
+    "val": "Filter"
+  },
+  {
+    "key": "PARITECH_CLIENT_ID",
+    "val": "PARITECH CLIENT ID"
+  },
+  {
+    "key": "PARITECH_CLIENT_NAME",
+    "val": " PARITECH CLIENT NAME"
+  },
+  {
+    "key": "PARITECH_CLIENT_MAIL",
+    "val": " PARITECH CLIENT MAIL"
+  },
+  {
+    "key": "SAXO_CLIENT_ID",
+    "val": "SAXO CLIENT ID"
+  },
+  {
+    "key": "SAXO_ACCOUNT_ID",
+    "val": "SAXO ACCOUNT ID"
+  },
+  {
+    "key": "SAXO_CLIENT_NAME",
+    "val": "SAXO CLIENT NAME"
+  },
+  {
+    "key": "SAXO_ACCOUNT_VALUE",
+    "val": "SAXO ACCOUNT VALUE"
+  },
+  {
+    "key": "TRADING_STATUS",
+    "val": "TRADING STATUS"
+  },
+  {
+    "key": "Comp_Info",
+    "val": "Comp. Info"
+  },
+  {
+    "key": "LIVE",
+    "val": "LIVE"
+  },
+  {
+    "key": "AUSTRALIAN_MARKETS",
+    "val": "AUSTRALIAN MARKETS"
+  },
+  {
+    "key": "POINTS",
+    "val": "POINTS"
+  },
+  {
+    "key": "CURRENCIES",
+    "val": "CURRENCIES"
+  },
+  {
+    "key": "EXCHANGE_RATE",
+    "val": "EXCHANGE RATE"
+  },
+  {
+    "key": "Products",
+    "val": "Products"
+  },
+  {
+    "key": "Equity",
+    "val": "Equity"
+  },
+  {
+    "key": "Warrant",
+    "val": "Warrant"
+  },
+  {
+    "key": "Account_Id",
+    "val": "Account Id"
+  },
+  {
+    "key": "Full_Name",
+    "val": "Full Name"
+  },
+  {
+    "key": "HIN_Number",
+    "val": "HIN Number"
+  },
+  {
+    "key": "Work_Phone",
+    "val": "Work Phone"
+  },
+  {
+    "key": "Home_Phone",
+    "val": "Home Phone"
+  },
+  {
+    "key": "Fax_Number",
+    "val": "Fax Number"
+  },
+  {
+    "key": "Postal_Address",
+    "val": "Postal Address"
+  },
+  {
+    "key": "User_Type",
+    "val": "User Type"
+  },
+  {
+    "key": "Advisor",
+    "val": "Advisor"
+  },
+  {
+    "key": "is_not_enabled",
+    "val": "is not enabled"
+  },
+  {
+    "key": "client_support",
+    "val": "Please contact Client Support on"
+  },
+  {
+    "key": "for_further_assistance",
+    "val": "for further assistance"
+  },
+  {
+    "key": "or_email_us_at",
+    "val": "or email us at"
+  },
+  {
+    "key": "STAGING",
+    "val": "STAGING"
+  },
+  {
+    "key": "NEXT",
+    "val": "NEXT"
+  },
+  {
+    "key": "Market_Overview",
+    "val": "Market Overview"
+  },
+  {
+    "key": "does_not_have_linked_account_to_trade",
+    "val": "does not have linked account to trade"
+  },
+  {
+    "key": "Please_contact_Client_Support_on",
+    "val": "Please contact Client Support on"
+  },
+  {
+    "key": "Terms_of_Use",
+    "val": "Terms of Use"
+  },
+  {
+    "key": "Account_Info",
+    "val": "Account Info"
+  },
+  {
+    "key": "View_only",
+    "val": "View only"
+  },
+  {
+    "key": "This_account_is_not_enabled",
+    "val": "This account is not enabled"
+  },
+  {
+    "key": "This_account_is_inactive",
+    "val": "This account is inactive"
+  },
+  {
+    "key": "is_inactive",
+    "val": "is inactive"
+  },
+  {
+    "key": "USD",
+    "val": "USD"
+  },
+  {
+    "key": "Market Overview",
+    "val": "Market Overview"
+  },
+  {
+    "key": "Comp. Info",
+    "val": "Comp. Info"
+  },
+  {
+    "key": "Order_Amount",
+    "val": "Order Amount "
+  },
+  {
+    "key": "TOTAL_Estimated",
+    "val": "TOTAL (Estimated)"
+  },
+  {
+    "key": "Clear_All_Data",
+    "val": "Clear All Data"
+  },
+  {
+    "key": "Usd_Character",
+    "val": "$"
+  },
+  {
+    "key": "OTHER_FEES_AUD",
+    "val": "OTHER FEES (AUD)"
+  },
+  {
+    "key": "GST_AUD",
+    "val": "GST (AUD)"
+  },
+  {
+    "key": "BROKERAGE_AUD",
+    "val": "BROKERAGE (AUD)"
+  },
+  {
+    "key": "TOTAL_AUD",
+    "val": "TOTAL (AUD)"
+  },
+  {
+    "key": "EST_TOTAL_AUD",
+    "val": "EST. TOTAL (AUD)"
+  },
+  {
+    "key": "EST_FEES_AUD",
+    "val": "EST. FEES (AUD)"
+  },
+  {
+    "key": "FEES_AUD",
+    "val": "FEES (AUD)"
+  },
+  {
+    "key": "Total_AUD",
+    "val": "Total (AUD)"
+  },
+  {
+    "key": "Fees_AUD",
+    "val": "Fees (AUD)"
+  },
+  {
+    "key": "ESTIMATED_TOTAL_AUD",
+    "val": "Estimated Total (AUD)"
+  },
+  {
+    "key": "ESTIMATED_FEES_AUD",
+    "val": "Estimated Fees (AUD)"
+  },
+  {
+    "key": "onMarketMKT",
+    "val": "MARKET TO LIMIT Order to ##side## ##volume## of ##symbol## at MARKET Price is New"
+  },
+  {
+    "key": "onMarketStoploss",
+    "val": "STOP LOSS Order to ##side## ##volume## of ##symbol## at MARKET Price, Trigger at ##stopPrice## is New"
+  },
+  {
+    "key": "onMarketLimit",
+    "val": "LIMIT Order to ##side## ##volume## of ##symbol## at ##limitPrice## is New"
+  },
+  {
+    "key": "onMarketStopLimit",
+    "val": "STOP LIMIT Order to ##side## ##volume## of ##symbol## at ##limitPrice## (Trigger at ##stopPrice##) is New"
+  },
+  {
+    "key": "onMarketTrailingAmountStopLimit",
+    "val": "TRAILING STOP LIMIT Order to ##side## ##volume## of ##symbol## at ##limitPrice## Trigger at ##stopPrice##, and Trailing Amount at ##trailingValue## cent is New"
+  },
+  {
+    "key": "onMarketTrailingPercentStopLimit",
+    "val": "TRAILING STOP LIMIT Order to ##side## ##volume## of ##symbol## at ##limitPrice## Trigger at ##stopPrice##, and Trailing Percent at ##trailingValue## is New"
+  },
+  {
+    "key": "partialFillMKT",
+    "val": "MARKET TO LIMIT Order to ##side## ##volume## of ##symbol## has been Filled ##filledQuantity## (of Total ##volume##) at ##filledPrice##"
+  },
+  {
+    "key": "partialFillStoploss",
+    "val": "STOP LOSS Order to ##side## ##volume## of ##symbol## at MARKET Price, Trigger at ##stopPrice## has been Filled (of Total ##volume##) at ##filledPrice##"
+  },
+  {
+    "key": "partialFillLimit",
+    "val": "LIMIT Order to ##side## ##volume## of ##symbol## at ##limitPrice## has been Filled ##filledQuantity## (of Total ##volume##) at ##filledPrice##"
+  },
+  {
+    "key": "partialFillStopLimit",
+    "val": "STOP LIMIT Order to ##side## ##volume## of ##symbol## at ##limitPrice## (Trigger at ##stopPrice##) has been Filled ##filledQuantity## (of Total ##volume##) at ##filledPrice##"
+  },
+  {
+    "key": "partialFillTrailingAmountStopLimit",
+    "val": "TRAILING STOP LIMIT Order to ##side## ##volume## of ##symbol## at ##limitPrice## Trigger at ##stopPrice##, and Trailing Amount at ##trailingValue## cent has been Filled ##filledQuantity## (of Total ##volume##) at ##filledPrice##"
+  },
+  {
+    "key": "partialFillTrailingPercentStopLimit",
+    "val": "TRAILING STOP LIMIT Order to ##side## ##volume## of ##symbol## at ##limitPrice## Trigger at ##stopPrice##, and Trailing Percent at ##trailingValue## has been Filled ##filledQuantity## (of Total ##volume##) at ##filledPrice##"
+  },
+  {
+    "key": "filledMKT",
+    "val": "MARKET TO LIMIT Order to ##side## ##volume## of ##symbol## at MARKET Price is Done with Average Price of ##averagePrice##"
+  },
+  {
+    "key": "filledStoploss",
+    "val": "STOP LOSS Order to ##side## ##volume## of ##symbol## at MARKET Price, Trigger at ##stopLimit## is Done with Average Price of ##averagePrice##"
+  },
+  {
+    "key": "filledLimit",
+    "val": "LIMIT Order to ##side## ##volume## of ##symbol## at ##limitPrice## is Done with Average Price of ##averagePrice##"
+  },
+  {
+    "key": "filledTrailingAmountStopLimit",
+    "val": "TRAILING STOP LIMIT Order to ##side## ##volume## of ##symbol## at ##limitPrice## Trigger at ##stopPrice##, and Trailing Amount at ##trailingValue## cent is Done with Average Price of ##averagePrice##"
+  },
+  {
+    "key": "filledTrailingPercentStopLimit",
+    "val": "TRAILING STOP LIMIT Order to ##side## ##volume## of ##symbol## at ##limitPrice## Trigger at ##stopPrice##, and Trailing Percent at ##trailingValue## is Done with Average Price of ##averagePrice##"
+  },
+  {
+    "key": "cancelledMKT",
+    "val": "MARKET TO LIMIT Order to ##side## ##volume## of ##symbol## at MARKET Price is Cancelled"
+  },
+  {
+    "key": "cancelledStoploss",
+    "val": "STOP LOSS Order to ##side## ##volume## of ##symbol## at MARKET Price, Trigger at ##stopPrice## is Canceled"
+  },
+  {
+    "key": "cancelledLimit",
+    "val": "LIMIT Order to ##side## ##volume## of ##symbol## at ##limitPrice## is Cancelled"
+  },
+  {
+    "key": "cancelledStopLimitNotTrigger",
+    "val": "STOP LIMIT Order to ##side## ##volume## of ##symbol## at ##limitPrice## is Canceled"
+  },
+  {
+    "key": "cancelledStopLimit",
+    "val": "STOP LIMIT Order to ##side## ##volume## of ##symbol## at ##limitPrice## (Trigger at ##stopPrice##) is Canceled"
+  },
+  {
+    "key": "cancelledTrailingAmountStopLimit",
+    "val": "TRAILING STOP LIMIT Order to ##side## ##volume## of ##symbol## at ##limitPrice## Trigger at ##stopPrice##, and Trailing Amount at ##trailingValue## cent is Canceled"
+  },
+  {
+    "key": "cancelledTrailingPercentStopLimit",
+    "val": "TRAILING STOP LIMIT Order to ##side## ##volume## of ##symbol## at ##limitPrice## Trigger at ##stopPrice##, and Trailing Percent at ##trailingValue## is Cancelled"
+  },
+  {
+    "key": "rejectedMKT",
+    "val": "MARKET TO LIMIT Order to ##side## ##volume## of ##symbol## at MARKET Price is Rejected by Exchange"
+  },
+  {
+    "key": "rejectedLimit",
+    "val": "LIMIT Order to ##side## ##volume## of ##symbol## at ##limitPrice## is Rejected by Exchange"
+  },
+  {
+    "key": "rejectedStopLimit",
+    "val": "STOP LIMIT Order to ##side## ##volume## of ##symbol## at ##limitPrice## (Trigger at ##stopPrice##) is Rejected by Exchange"
+  },
+  {
+    "key": "rejectedTrailingAmountStopLimit",
+    "val": "TRAILING STOP LIMIT Order to ##side## ##volume## of ##symbol## at ##limitPrice## Trigger at ##stopPrice##, and Trailing Amount at ##trailingValue## cent is Reject by Exchange"
+  },
+  {
+    "key": "rejectedTrailingPercentStopLimit",
+    "val": "TRAILING STOP LIMIT Order to ##side## ##volume## of ##symbol## at ##limitPrice## Trigger at ##stopPrice##, and Trailing Percent at ##trailingValue## is Reject by Exchange"
+  },
+  {
+    "key": "expiredMKT",
+    "val": "MARKET TO LIMIT Order to ##side## ##volume## of ##symbol## at MARKET Price is Expired"
+  },
+  {
+    "key": "expiredStoploss",
+    "val": "STOP LOSS Order to ##side## ##volume## of ##symbol## at MARKET Price, Trigger at ##stopLimit## is Expired"
+  },
+  {
+    "key": "expiredLimit",
+    "val": "LIMIT Order to ##side## ##volume## of ##symbol## at ##limitPrice## is Expired"
+  },
+  {
+    "key": "expiredStopLimit",
+    "val": "STOP LIMIT Order to ##side## ##volume## of ##symbol## at ##limitPrice## (Trigger at ##stopPrice##) is Expired"
+  },
+  {
+    "key": "expiredTrailingAmountStopLimit",
+    "val": "TRAILING STOP LIMIT Order to ##side## ##volume## of ##symbol## at ##limitPrice## Trigger at ##stopPrice##, and Trailing Amount at ##trailingValue## cent is Expired"
+  },
+  {
+    "key": "expiredTrailingPriceStopLimit",
+    "val": "TRAILING STOP LIMIT Order to ##side## ##volume## of ##symbol## at ##limitPrice## Trigger at ##stopPrice##, and Trailing Percent at ##trailingValue## is Expired"
+  },
+  {
+    "key": "Timeout_cannot_be_connected_server",
+    "val": "Timeout, cannot be connected server"
+  },
+  {
+    "key": "Please",
+    "val": "Please "
+  },
+  {
+    "key": "to_access_Market_Announcements",
+    "val": " to access Market Announcements"
+  },
+  {
+    "key": "Admin",
+    "val": "Admin"
+  },
+  {
+    "key": "User_vs_Client_Man",
+    "val": "User & Client Man."
+  },
+  {
+    "key": "User_vs_Client_Management",
+    "val": "User & Client Management"
+  },
+  {
+    "key": "Client_Management",
+    "val": "Client Management"
+  },
+  {
+    "key": "All_Holdings",
+    "val": "All Holdings"
+  },
+  {
+    "key": "Administrator_Orders",
+    "val": "Orders"
+  },
+  {
+    "key": "All_Orders",
+    "val": "All Orders"
+  },
+  {
+    "key": "Administrator_Portfolio",
+    "val": "Portfolio"
+  },
+  {
+    "key": "Administrator_Reports",
+    "val": "Reports"
+  },
+  {
+    "key": "Administrator_All_Orders",
+    "val": "All Orders"
+  },
+  {
+    "key": "Administrator_All_Holdings",
+    "val": "All Holdings"
+  },
+  {
+    "key": "Administrator_Place_Domestic_Order",
+    "val": "New Order"
+  },
+  {
+    "key": "UserAccount",
+    "val": "User & Client Man."
+  },
+  {
+    "key": "AllUser",
+    "val": "All User"
+  },
+  {
+    "key": "AllAccount",
+    "val": "All Account"
+  },
+  {
+    "key": "USERLOGIN",
+    "val": "USER LOGIN"
+  },
+  {
+    "key": "CLIENTID",
+    "val": "CLIENT ID"
+  },
+  {
+    "key": "STATUS",
+    "val": "STATUS"
+  },
+  {
+    "key": "USERGROUP",
+    "val": "USER GROUP"
+  },
+  {
+    "key": "CLIENTNAME",
+    "val": "CLIENT NAME"
+  },
+  {
+    "key": "HIN",
+    "val": "HIN"
+  },
+  {
+    "key": "ADVISOR",
+    "val": "ADVISOR"
+  },
+  {
+    "key": "Account_Balance",
+    "val": "Account Balance"
+  },
+  {
+    "key": "NYSE-01",
+    "val": "Tradable NYSE Stocks #1"
+  },
+  {
+    "key": "NYSE-02",
+    "val": "Tradable NYSE Stocks #2"
+  },
+  {
+    "key": "NYSE-03",
+    "val": "Tradable NYSE Stocks #3"
+  },
+  {
+    "key": "NYSE-04",
+    "val": "Tradable NYSE Stocks #4"
+  },
+  {
+    "key": "NYSE-05",
+    "val": "Tradable NYSE Stocks #5"
+  },
+  {
+    "key": "NYSE1",
+    "val": "NYSE #1"
+  },
+  {
+    "key": "NYSE2",
+    "val": "NYSE #2"
+  },
+  {
+    "key": "NYSE3",
+    "val": "NYSE #3"
+  },
+  {
+    "key": "NYSE4",
+    "val": "NYSE #4"
+  },
+  {
+    "key": "NYSE5",
+    "val": "NYSE #5"
+  },
+  {
+    "key": "NASDAQ-01",
+    "val": "Tradable NASDAQ Stocks #1"
+  },
+  {
+    "key": "NASDAQ-02",
+    "val": "Tradable NASDAQ Stocks #2"
+  },
+  {
+    "key": "NASDAQ1",
+    "val": "NASDAQ #1"
+  },
+  {
+    "key": "NASDAQ2",
+    "val": "NASDAQ #2"
+  },
+  {
+    "key": "XASE",
+    "val": "XASE"
+  },
+  {
+    "key": "AMEXStocks",
+    "val": "Tradable AMEX Stocks"
+  },
+  {
+    "key": "AMEX",
+    "val": "AMEX"
+  },
+  {
+    "key": "NYSE-ARCA",
+    "val": "Tradable NYSE Arca Stocks"
+  },
+  {
+    "key": "NYSE_Arca",
+    "val": "NYSE Arca"
+  },
+  {
+    "key": "ARCX",
+    "val": "ARCX"
+  },
+  {
+    "key": "CLIENT_ID",
+    "val": "CLIENT ID"
+  },
+  {
+    "key": "CLIENT_NAME",
+    "val": "CLIENT NAME"
+  },
+  {
+    "key": "Client",
+    "val": "Client"
+  },
+  {
+    "key": "Operator",
+    "val": "Operator"
+  },
+  {
+    "key": "SearchAccount",
+    "val": "Search Account"
+  },
+  {
+    "key": "SearchSymbol",
+    "val": "Search Symbol"
+  },
+  {
+    "key": "Place_order_successfully",
+    "val": "Place order successfully"
+  },
+  {
+    "key": "Placing_order",
+    "val": "Placing order..."
+  },
+  {
+    "key": "Modify_order_successfully",
+    "val": "Modify order successfully"
+  },
+  {
+    "key": "Modifying_order",
+    "val": "Modifying order..."
+  },
+  {
+    "key": "Cancel_order_successfully",
+    "val": "Cancel order successfully"
+  },
+  {
+    "key": "Cancelling_order",
+    "val": "Cancelling order..."
+  },
+  {
+    "key": "Portfolio_summary",
+    "val": "Portfolio Summary"
+  },
+  {
+    "key": "Cash_balance_after_settlement",
+    "val": "Cash Balance after Settlement"
+  },
+  {
+    "key": "Securities_at_market_value",
+    "val": "Securities At Market Value"
+  },
+  {
+    "key": "Trading_analysis",
+    "val": "Trading Analysis"
+  },
+  {
+    "key": "Cash_at_bank",
+    "val": "Cash at Bank"
+  },
+  {
+    "key": "Pending_settlement",
+    "val": "Pending Settlement"
+  },
+  {
+    "key": "Open_orders",
+    "val": "Open Orders"
+  },
+  {
+    "key": "Cash_available_to_trade",
+    "val": "Cash Available to Trade"
+  },
+  {
+    "key": "Portfolio_analysis",
+    "val": "Portfolio Analysis"
+  },
+  {
+    "key": "_other",
+    "val": "Other"
+  },
+  {
+    "key": "Cash_equities",
+    "val": "Cash Equities"
+  },
+  {
+    "key": "_performance",
+    "val": "Performance"
+  },
+  {
+    "key": "securities_at_cost",
+    "val": "Securities at Cost"
+  },
+  {
+    "key": "Total_gain_loss",
+    "val": "Total Gain/Loss"
+  },
+  {
+    "key": "percent_gain_Loss",
+    "val": "% Gain/Loss"
+  },
+  {
+    "key": "today_s_change",
+    "val": "Today's Change"
+  },
+  {
+    "key": "PORTFOLIO_SUMMARY",
+    "val": "PORTFOLIO SUMMARY"
+  },
+  {
+    "key": "SECURITIES_AT_MARKET_VALUE_UPPER",
+    "val": "SECURITIES AT MARKET VALUE"
+  },
+  {
+    "key": "VALUE_AUD",
+    "val": "Value (AUD)"
+  },
+  {
+    "key": "GAIN/LOSS",
+    "val": "Gain/Loss"
+  },
+  {
+    "key": "%GAIN/LOSS",
+    "val": "%Gain/Loss"
+  },
+  {
+    "key": "Morning_Star",
+    "val": "Morningstar"
+  },
+  {
+    "key": "FundamentalsDataMorningStar",
+    "val": "Fundamentals Data (Morningstar)"
+  },
+  {
+    "key": "percent_today_s_change",
+    "val": "%Today's Change"
+  },
+  {
+    "key": "on_changing_infomation_and_orders",
+    "val": "On Changing Information & Orders"
+  },
+  {
+    "key": "after_five_minutes_of_inactive",
+    "val": "After 5 Minutes of Inactive"
+  },
+  {
+    "key": "after_fifteen_minutes_of_inactive",
+    "val": "After 15 Minutes of Inactive"
+  },
+  {
+    "key": "Security",
+    "val": "Security"
+  },
+  {
+    "key": "Tip_Rank",
+    "val": "Tipranks"
+  },
+  {
+    "key": "Trading_Enabled",
+    "val": "Trading Enabled"
+  },
+  {
+    "key": "CANCEL_ORDER",
+    "val": "CANCEL ORDER"
+  },
+  {
+    "key": "MODIFY_ORDER",
+    "val": "MODIFY ORDER"
+  },
+  {
+    "key": "NEW_ORDER",
+    "val": "NEW ORDER"
+  },
+  {
+    "key": "Confirm_Order",
+    "val": "Confirm Order"
+  },
+  {
+    "key": "Order_Detail",
+    "val": "Order Detail"
+  },
+  {
+    "key": "Detail_Order",
+    "val": "Detail Order"
+  },
+  {
+    "key": "No_Internet_Connection",
+    "val": "No Internet Connection"
+  },
+  {
+    "key": "20_Minutes_Delayed",
+    "val": "20 Minutes Delayed"
+  },
+  {
+    "key": "Estimated_Total_AUD",
+    "val": "Estimated Total (AUD)"
+  },
+  {
+    "key": "Estimated_Fees_AUD",
+    "val": "Estimated Fees (AUD)"
+  },
+  {
+    "key": "ContractNote",
+    "val": "Contract Note"
+  },
+  {
+    "key": "Order_Amount_AUD",
+    "val": "Order Amount (AUD)"
+  },
+  {
+    "key": "Order_Amount_USD",
+    "val": "Order Amount (USD)"
+  },
+  {
+    "key": "OrderID_DetailOrder",
+    "val": "Order ID"
+  },
+  {
+    "key": "Stop_Trigger_Price",
+    "val": "Stop (Trigger) Price"
+  },
+  {
+    "key": "NEW_",
+    "val": "NEW"
+  },
+  {
+    "key": "PARTIALFILL",
+    "val": "PARTIALLY FILLED"
+  },
+  {
+    "key": "DONEFORDAY",
+    "val": "DONE FOR DAY"
+  },
+  {
+    "key": "CANCELLED",
+    "val": "CANCELLED"
+  },
+  {
+    "key": "REPLACED",
+    "val": "REPLACED"
+  },
+  {
+    "key": "CANCELLING",
+    "val": "CANCELLING"
+  },
+  {
+    "key": "STOPPED",
+    "val": "STOPPED"
+  },
+  {
+    "key": "REJECTED",
+    "val": "REJECTED"
+  },
+  {
+    "key": "SUSPENDED",
+    "val": "SUSPENDED"
+  },
+  {
+    "key": "PENDING",
+    "val": "PENDING"
+  },
+  {
+    "key": "EXPIRED",
+    "val": "EXPIRED"
+  },
+  {
+    "key": "ACCEPTEDFORBIDDING",
+    "val": "ACCEPTED FOR BIDDING"
+  },
+  {
+    "key": "AMENDING",
+    "val": "AMENDING"
+  },
+  {
+    "key": "PLACE",
+    "val": "PLACE"
+  },
+  {
+    "key": "REPLACE",
+    "val": "REPLACE"
+  },
+  {
+    "key": "UNKNOWN",
+    "val": "UNKNOWN"
+  },
+  {
+    "key": "No",
+    "val": "No"
+  },
+  {
+    "key": "for",
+    "val": "for"
+  },
+  {
+    "key": "Search_Symbol",
+    "val": "Search Symbol"
+  },
+  {
+    "key": "User_Manager",
+    "val": "UserManager"
+  },
+  {
+    "key": "Tip_Rank_Menu",
+    "val": "Analysis (Tipranks)"
+  },
+  {
+    "key": "Business_Log",
+    "val": "Activities"
+  },
+  {
+    "key": "query_cash_report",
+    "val": "Cash Account Summary"
+  },
+  {
+    "key": "query_holdings_report",
+    "val": "Holdings Valuation"
+  },
+  {
+    "key": "query_financial_report",
+    "val": "Financial Summary"
+  },
+  {
+    "key": "query_transaction_report",
+    "val": "Transaction Summary"
+  },
+  {
+    "key": "MODIFY_SELL_ORDER",
+    "val": "MODIFY SELL ORDER"
+  },
+  {
+    "key": "MODIFY_BUY_ORDER",
+    "val": "MODIFY BUY ORDER"
+  },
+  {
+    "key": "CANCEL_SELL_ORDER",
+    "val": "CANCEL SELL ORDER"
+  },
+  {
+    "key": "CANCEL_BUY_ORDER",
+    "val": "CANCEL BUY ORDER"
+  },
+  {
+    "key": "Retail",
+    "val": "Retail"
+  },
+  {
+    "key": "update_setting",
+    "val": "UPDATE SETTING"
+  },
+  {
+    "key": "BROWSER",
+    "val": "BROWSER"
+  },
+  {
+    "key": "IP_ADRESS",
+    "val": "IP ADDRESS"
+  },
+  {
+    "key": "login",
+    "val": "SIGN IN"
+  },
+  {
+    "key": "logout",
+    "val": "SIGN OUT"
+  },
+  {
+    "key": "MARKET_PRICE",
+    "val": "MARKET PRICE"
+  },
+  {
+    "key": "remove_symbol",
+    "val": "REMOVE SYMBOL"
+  },
+  {
+    "key": "add_symbol",
+    "val": "ADD SYMBOL"
+  },
+  {
+    "key": "Personal_Watchlist",
+    "val": "Personal Watchlist"
+  },
+  {
+    "key": "sign_in",
+    "val": "SIGN IN"
+  },
+  {
+    "key": "sign_out",
+    "val": "SIGN OUT"
+  },
+  {
+    "key": "enter_pin",
+    "val": "Enter PIN"
+  },
+  {
+    "key": "place_order",
+    "val": "Place Order"
+  },
+  {
+    "key": "modify_order",
+    "val": "Modify Order"
+  },
+  {
+    "key": "cancel_order",
+    "val": "Cancel Order"
+  },
+  {
+    "key": "save_balances",
+    "val": "Save balances"
+  },
+  {
+    "key": "export_EOD",
+    "val": "Export EOD"
+  },
+  {
+    "key": "sign_in_sign_out",
+    "val": "Sign In/ Sign Out"
+  },
+  {
+    "key": "update_watchlist",
+    "val": "Update Watchlist"
+  },
+  {
+    "key": "querry_report",
+    "val": "Query Report"
+  },
+  {
+    "key": "update_SCM",
+    "val": "Update SCM"
+  },
+  {
+    "key": "Update_Setting",
+    "val": "Update Setting"
+  },
+  {
+    "key": "DEVICE",
+    "val": "DEVICE"
+  },
+  {
+    "key": "update_saxo_account",
+    "val": "UPDATE SAXO CLIENT MANAGEMENT"
+  },
+  {
+    "key": "QUERY",
+    "val": "QUERY"
+  },
+  {
+    "key": "update_symbol",
+    "val": "UPDATE"
+  },
+  {
+    "key": "Delete_Templace?",
+    "val": "Delete Templace?"
+  },
+  {
+    "key": "Overwrite?",
+    "val": "Overwrite?"
+  },
+  {
+    "key": "noteOrderList_1",
+    "val": "##diff## @ LMT ##limitPrice##, Trigger ##stopPrice##"
+  },
+  {
+    "key": "noteOrderList_2",
+    "val": "##diff## @ MKT ##limitPrice##, Trigger ##stopPrice##"
+  },
+  {
+    "key": "noteOrderList_3",
+    "val": "##diff## @ MKT"
+  },
+  {
+    "key": "noteOrderList_4",
+    "val": "##diff## @ LMT ##limitPrice##"
+  },
+  {
+    "key": "noteOrderList_5",
+    "val": "##volume## @ MKT"
+  },
+  {
+    "key": "noteOrderList_6",
+    "val": "##diff## @ LMT ##avgPrice##"
+  },
+  {
+    "key": "noteOrderList_7",
+    "val": "##volume## @ LMT ##limitPrice##"
+  },
+  {
+    "key": "noteOrderList_8",
+    "val": "##filled## @ LMT ##limitPrice##"
+  },
+  {
+    "key": "noteOrderList_9",
+    "val": "##volume## @ MKT, Trigger ##stopPrice##"
+  },
+  {
+    "key": "noteOrderList_10",
+    "val": "##volume## @ MKT ##avgPrice##"
+  },
+  {
+    "key": "noteOrderList_11",
+    "val": "##diff## @ LMT ##limitPrice##, Trigger ##stopPrice##"
+  },
+  {
+    "key": "noteOrderList_12",
+    "val": "##diff## @ MKT, Trigger ##stopPrice## ##diff## @ MKT"
+  },
+  {
+    "key": "noteOrderList_13",
+    "val": "##diff## @ MKT ##avgPrice##"
+  },
+  {
+    "key": "noteOrderList_14",
+    "val": "##diff## @ MKT, Trigger ##stopPrice##"
+  },
+  {
+    "key": "noteOrderList_15",
+    "val": "##volume## @ LMT ##limitPrice##, Trigger ##stopPrice##"
+  },
+  {
+    "key": "noteOrderList_16",
+    "val": "##diff## @ LMT, Trigger ##avgPrice##"
+  },
+  {
+    "key": "noteOrderList_17",
+    "val": "##diff## @ LMT"
+  },
+  {
+    "key": "noteOrderList_18",
+    "val": "##volume## @ LMT"
+  },
+  {
+    "key": "noteOrderList_19",
+    "val": "##filled## @ MKT ##avgPrice##"
+  },
+  {
+    "key": "noteOrderList_20",
+    "val": "##volume## @ LMT ##avgPrice##"
+  },
+  {
+    "key": "noteOrderList_21",
+    "val": "##isBuy## ##diff## @ MKT"
+  },
+  {
+    "key": "noteOrderList_22",
+    "val": "##isBuy## ##diff## @ MKT ##avgPrice##"
+  },
+  {
+    "key": "noteOrderList_23",
+    "val": "##modify## ##volume## @ LMT ##limitPrice##"
+  },
+  {
+    "key": "noteOrderList_24",
+    "val": "##modify## ##volume## @ MKT"
+  },
+  {
+    "key": "noteOrderList_25",
+    "val": "##modify## ##volume## @ MKT ##limitPrice##, Trigger ##stopPrice##"
+  },
+  {
+    "key": "noteOrderList_26",
+    "val": "##modify## ##volume## @ MKT ##stopPrice##"
+  },
+  {
+    "key": "noteOrderList_27",
+    "val": "##modify## ##volume## @ MKT ##avgPrice##"
+  },
+  {
+    "key": "noteOrderList_28",
+    "val": "##modify## ##volume## @ MKT"
+  },
+  {
+    "key": "noteOrderList_29",
+    "val": "##modify## ##volume## @ MKT ##stopPrice##"
+  },
+  {
+    "key": "noteOrderList_30",
+    "val": "LIMIT ##isBuy## ##volume## @ LMT ##limitPrice##"
+  },
+  {
+    "key": "noteOrderList_31",
+    "val": "MARKET TO LIMIT ##isBuy## ##volume## @ MKT"
+  },
+  {
+    "key": "noteOrderList_32",
+    "val": "STOP LIMIT ##isBuy## ##volume## @ LMT ##limitPrice##, Trigger ##stopPrice##"
+  },
+  {
+    "key": "noteOrderList_33",
+    "val": "STOP LOSS ##isBuy## ##volume## @ MKT, Trigger ##stopPrice##"
+  },
+  {
+    "key": "noteOrderList_34",
+    "val": "TRAILING STOP LIMIT ##isBuy## ##volume## @ LMT ##limitPrice##, Trigger ##stopPrice## Trailing amount"
+  },
+  {
+    "key": "noteOrderList_35",
+    "val": "MARKET ##isBuy## ##volume## @ MKT"
+  },
+  {
+    "key": "noteOrderList_36",
+    "val": "STOP ##isBuy## ##volume## @ MKT, Trigger ##stopPrice##"
+  },
+  {
+    "key": "noteOrderList_37",
+    "val": "##filled## @ LMT ##avgPrice##"
+  },
+  {
+    "key": "noteOrderList_38",
+    "val": "##filled## @ MKT, Trigger ##stopPrice##"
+  },
+  {
+    "key": "noteOrderList_39",
+    "val": "##diff## @ MKT, Trigger ##limitPrice##"
+  },
+  {
+    "key": "notePendingTrailingAmount",
+    "val": "##diff## @ LMT ##limitPrice##, Trigger ##stopPrice##, Trailing Amount ##amount##"
+  },
+  {
+    "key": "notePendingTrailingPercent",
+    "val": "##diff## @ LMT ##limitPrice##, Trigger ##stopPrice##, Trailing Percent ##percent##"
+  }
+]

@@ -1,0 +1,3125 @@
+[
+    {
+        "key": "title",
+        "val": "Chào mừng bạn đến trải nghiệm dùng react-i18next"
+    },
+    {
+        "key": "description2"
+    },
+    {
+        "key": "Orders(Open)"
+    },
+    {
+        "key": "Orders(StopLoss)"
+    },
+    {
+        "key": "Orders(Filled)"
+    },
+    {
+        "key": "Orders(Cancelled)"
+    },
+    {
+        "key": "AllOrders(Open)"
+    },
+    {
+        "key": "AllOrders(StopLoss)"
+    },
+    {
+        "key": "AllOrders(Filled)"
+    },
+    {
+        "key": "AllOrders(Cancelled)"
+    },
+    {
+        "key": "SecurityInfo"
+    },
+    {
+        "key": "RelatedNews",
+        "val": "Thông tin Thị trường"
+    },
+    {
+        "key": "Related_News",
+        "val": "Thông tin liên quan"
+    },
+    {
+        "key": "Market_News",
+        "val": "Tin Thị trường"
+    },
+    {
+        "key": "All_Market",
+        "val": "Toàn Thị trường"
+    },
+    {
+        "key": "Please_enter_the_PIN_to_confirm",
+        "val": "Nhập PIN để xác nhận"
+    },
+    {
+        "key": "Account_ID",
+        "val": "ID của Tài khoản"
+    },
+    {
+        "key": "Forgot_PIN",
+        "val": "Quên PIN"
+    },
+    {
+        "key": "Done",
+        "val": "Hoàn thành"
+    },
+    {
+        "key": "Please_try_again",
+        "val": "Vui lòng nhập lại"
+    },
+    {
+        "key": "Verify_your_new_PIN",
+        "val": "Xác thực PIN mới"
+    },
+    {
+        "key": "Filled_Time",
+        "val": "Thời gian khớp"
+    },
+    {
+        "key": "Change",
+        "val": "Thay đổi"
+    },
+    {
+        "key": "Prev_Close",
+        "val": "Giá đóng cửa trước đó"
+    },
+    {
+        "key": "NO.",
+        "val": "Số"
+    },
+    {
+        "key": "VOL",
+        "val": "KL"
+    },
+    {
+        "key": "ADD",
+        "val": "THÊM"
+    },
+    {
+        "key": "PRICE",
+        "val": "GIÁ"
+    },
+    {
+        "key": "CLOSE",
+        "val": "GIÁ ĐÓNG CỬA"
+    },
+    {
+        "key": "SP20",
+        "val": "S&P 20"
+    },
+    {
+        "key": "SP50",
+        "val": "S&P 50"
+    },
+    {
+        "key": "SP100",
+        "val": "S&P 100"
+    },
+    {
+        "key": "SP200",
+        "val": "S&P 200"
+    },
+    {
+        "key": "Top_Gainers",
+        "val": "Top Tăng giá"
+    },
+    {
+        "key": "Top_Losers",
+        "val": "Top Giảm giá"
+    },
+    {
+        "key": "Top_Value",
+        "val": "Top Giá trị giao dịch"
+    },
+    {
+        "key": "Personal",
+        "val": "Danh mục cá nhân"
+    },
+    {
+        "key": "Updated",
+        "val": "Đã cập nhật"
+    },
+    {
+        "key": "Override_Ques",
+        "val": "Bạn muốn làm lại các kết nối tài khoản đang có?"
+    },
+    {
+        "key": "Reject_Ques",
+        "val": "Bạn có chắc muốn từ chối tất cả các chỉnh sửa kết nối?"
+    },
+    {
+        "key": "Close_Position_Ques",
+        "val": "Bạn có muốn chuyển tất cả các Tài khoản sang Chỉ Đóng Trạng thái?"
+    },
+    {
+        "key": "Format_Csv_Err",
+        "val": "File CSV chưa đúng định dạng"
+    },
+    {
+        "key": "Server_response_time",
+        "val": "Máy chủ không phản hồi"
+    },
+    {
+        "key": "Saxo_account_has_positions",
+        "val": "Tài khoản Saxo đang có Chứng khoán hoặc Lệnh đang chờ khớp. Vui lòng đóng tất cả các Vị thế của Chứng khoán và Lệnh đang chờ khớp."
+    },
+    {
+        "key": "Uploading",
+        "val": "Đang tải lên"
+    },
+    {
+        "key": "OVERRIDE",
+        "val": "GHI ĐÈ"
+    },
+    {
+        "key": "REJECT",
+        "val": "TỪ CHỐI"
+    },
+    {
+        "key": "English",
+        "val": "Tiếng Anh"
+    },
+    {
+        "key": "Chinese",
+        "val": "Tiếng Trung"
+    },
+    {
+        "key": "Vietnamese",
+        "val": "Tiếng Việt"
+    },
+    {
+        "key": "Layout1",
+        "val": "Layout 1 (Đang cập nhật - Layout tuỳ chọn)"
+    },
+    {
+        "key": "Layout2",
+        "val": "Layout 2 (Đang cập nhật - Layout tuỳ chọn)"
+    },
+    {
+        "key": "Layout3",
+        "val": "Layout 3 (Đang cập nhật - Layout tuỳ chọn)"
+    },
+    {
+        "key": "Save_New_Layout ",
+        "val": "Lưu Layout mới "
+    },
+    {
+        "key": "Save_Layout"
+    },
+    {
+        "key": "Save_Template"
+    },
+    {
+        "key": "New_Order",
+        "val": "Đặt Lệnh"
+    },
+    {
+        "key": "Market",
+        "val": "Thị Trường"
+    },
+    {
+        "key": "Indices",
+        "val": "Chỉ số"
+    },
+    {
+        "key": "Watchlist",
+        "val": "Danh mục"
+    },
+    {
+        "key": "News",
+        "val": "Tin tức"
+    },
+    {
+        "key": "Related_Everything_News",
+        "val": "Tin tức Thị trường"
+    },
+    {
+        "key": "Analysis",
+        "val": "Phân tích"
+    },
+    {
+        "key": "Company_Information",
+        "val": "Thông tin công ty"
+    },
+    {
+        "key": "Security_Infomation"
+    },
+    {
+        "key": "Chart",
+        "val": "Biểu đồ"
+    },
+    {
+        "key": "Course_of_Sales",
+        "val": "Lịch sử khớp lệnh"
+    },
+    {
+        "key": "Market_Depth",
+        "val": "Chiều sâu của thị trường"
+    },
+    {
+        "key": "Depth"
+    },
+    {
+        "key": "Trading",
+        "val": "Giao dịch"
+    },
+    {
+        "key": "Orders",
+        "val": "Lệnh"
+    },
+    {
+        "key": "Portfolio",
+        "val": "Danh mục"
+    },
+    {
+        "key": "Account",
+        "val": "Tài khoản"
+    },
+    {
+        "key": "Reports",
+        "val": "Báo cáo"
+    },
+    {
+        "key": "Layouts",
+        "val": "Layouts"
+    },
+    {
+        "key": "Default_Layout",
+        "val": "Layout mặc định"
+    },
+    {
+        "key": "Default_Template"
+    },
+    {
+        "key": "User_Layout"
+    },
+    {
+        "key": "Admin_Layout"
+    },
+    {
+        "key": "New_Layout_1",
+        "val": "Layout mới 1"
+    },
+    {
+        "key": "New_Layout_2",
+        "val": "Layout mới 2"
+    },
+    {
+        "key": "Save_to_New_Layout",
+        "val": "Lưu Layout mới"
+    },
+    {
+        "key": "Settings",
+        "val": "Cài đặt"
+    },
+    {
+        "key": "Setting",
+        "val": "Cài đặt"
+    },
+    {
+        "key": "User_Info",
+        "val": "Thông tin người dùng"
+    },
+    {
+        "key": "Whats_New",
+        "val": "Tính năng mới"
+    },
+    {
+        "key": "Condition",
+        "val": "Điều kiện"
+    },
+    {
+        "key": "Terms_and_Conditions_of_Use",
+        "val": "Điều khoản sử dụng"
+    },
+    {
+        "key": "Sign_Out",
+        "val": "Đăng xuất"
+    },
+    {
+        "key": "Are_you_sign_out",
+        "val": "Bạn muốn đăng xuất đúng không?"
+    },
+    {
+        "key": "OK",
+        "val": "OK"
+    },
+    {
+        "key": "Email",
+        "val": "Email"
+    },
+    {
+        "key": "Username"
+    },
+    {
+        "key": "Password",
+        "val": "Mật khẩu"
+    },
+    {
+        "key": "Stay_signed_in",
+        "val": "Tiếp tục đăng nhập"
+    },
+    {
+        "key": "Incorrect_email_or_password",
+        "val": "Email hoặc Mật khẩu chưa đúng."
+    },
+    {
+        "key": "Login_was_unsuccessful",
+        "val": "Đăng nhập không thành công"
+    },
+    {
+        "key": "Sign_In",
+        "val": "Đăng nhập"
+    },
+    {
+        "key": "Layout_1",
+        "val": "Layout 1 (Đang cập nhật - Layout tuỳ chọn)"
+    },
+    {
+        "key": "Layout_2",
+        "val": "Layout 2 (Đang cập nhật - Layout tuỳ chọn)"
+    },
+    {
+        "key": "Layout_3",
+        "val": "Layout 3 (Đang cập nhật - Layout tuỳ chọn)"
+    },
+    {
+        "key": "Save_New_Layout",
+        "val": "Lưu layout mới"
+    },
+    {
+        "key": "Modify",
+        "val": "Sửa"
+    },
+    {
+        "key": "Refresh",
+        "val": "Làm mới"
+    },
+    {
+        "key": "PREV_CLOSE",
+        "val": "GIÁ ĐÓNG CỬA TRƯỚC ĐÓ"
+    },
+    {
+        "key": "Logout",
+        "val": "Đăng xuất"
+    },
+    {
+        "key": "Login",
+        "val": "Đăng nhập"
+    },
+    {
+        "key": "SYMBOL",
+        "val": "MÃ"
+    },
+    {
+        "key": "NAME",
+        "val": "TÊN"
+    },
+    {
+        "key": "LAST",
+        "val": "GIÁ KHỚP CUỐI CÙNG"
+    },
+    {
+        "key": "Last_Trade",
+        "val": "Giao dịch cuối cùng"
+    },
+    {
+        "key": "LAST_QTY",
+        "val": "KL giao dịch cuối cùng"
+    },
+    {
+        "key": "%CHANGE",
+        "val": "% THAY ĐỔI"
+    },
+    {
+        "key": "CHANGE",
+        "val": "THAY ĐỔI"
+    },
+    {
+        "key": "OPEN",
+        "val": "MỞ CỬA"
+    },
+    {
+        "key": "HIGH",
+        "val": "CAO NHẤT"
+    },
+    {
+        "key": "LOW",
+        "val": "THẤP NHẤT"
+    },
+    {
+        "key": "SIDE",
+        "val": "CHIỀU"
+    },
+    {
+        "key": "Side",
+        "val": "Chiều"
+    },
+    {
+        "key": "CONDITION",
+        "val": "ĐIỀU KIỆN"
+    },
+    {
+        "key": "SIZE",
+        "val": "KHỐI LƯỢNG"
+    },
+    {
+        "key": "FILLED",
+        "val": "ĐÃ KHỚP"
+    },
+    {
+        "key": "LIMIT_PRICE",
+        "val": "GIÁ LIMIT"
+    },
+    {
+        "key": "TRAILING_AMOUNT",
+        "val": "KHỐI LƯỢNG TRAILING"
+    },
+    {
+        "key": "Trailing_Amount",
+        "val": "Khối lượng Trailing"
+    },
+    {
+        "key": "TRAILING_%",
+        "val": "TRAILING %"
+    },
+    {
+        "key": "Trailing_Percent",
+        "val": "Phần trăm Trailing"
+    },
+    {
+        "key": "Percent",
+        "val": "Phần trăm"
+    },
+    {
+        "key": "TRIGGER_TYPE",
+        "val": "LOẠI TRIGGER"
+    },
+    {
+        "key": "STOP_PRICE",
+        "val": "GIÁ STOP"
+    },
+    {
+        "key": "FILLED_PRICE",
+        "val": "GIÁ KHỚP"
+    },
+    {
+        "key": "DURATION",
+        "val": "DURATION"
+    },
+    {
+        "key": "ORDER_ID",
+        "val": "ID LỆNH"
+    },
+    {
+        "key": "ENTRY_TIME",
+        "val": "THỜI GIAN ĐẶT"
+    },
+    {
+        "key": "ORDER_TYPE",
+        "val": "LOẠI LỆNH"
+    },
+    {
+        "key": "EXCHANGE",
+        "val": "SÀN"
+    },
+    {
+        "key": "COMPANY",
+        "val": "CÔNG TY"
+    },
+    {
+        "key": "Modify_Order",
+        "val": "Sửa Lệnh"
+    },
+    {
+        "key": "Cancel_Order",
+        "val": "Huỷ Lệnh"
+    },
+    {
+        "key": "Limit_Price",
+        "val": "Giá Limit"
+    },
+    {
+        "key": "Filled_Price",
+        "val": "Giá Khớp"
+    },
+    {
+        "key": "Entry_Time",
+        "val": "Thời gian đặt"
+    },
+    {
+        "key": "Fees",
+        "val": "Phí"
+    },
+    {
+        "key": "Order_ID",
+        "val": "ID Lệnh"
+    },
+    {
+        "key": "Company",
+        "val": "Công ty"
+    },
+    {
+        "key": "All",
+        "val": "Tất cả"
+    },
+    {
+        "key": "Price_Sensitive",
+        "val": "Nhạy cảm với giá"
+    },
+    {
+        "key": "Price Sensitive",
+        "val": "Nhạy cảm với giá"
+    },
+    {
+        "key": "No_Data",
+        "val": "Không có dữ liệu"
+    },
+    {
+        "key": "1_year_ago",
+        "val": "1 năm trước"
+    },
+    {
+        "key": "years_ago",
+        "val": "năm trước"
+    },
+    {
+        "key": "1_month_ago",
+        "val": "1 tháng trước"
+    },
+    {
+        "key": "months_ago",
+        "val": "tháng trước"
+    },
+    {
+        "key": "a_day_ago",
+        "val": "một ngày trước"
+    },
+    {
+        "key": "1_day_ago",
+        "val": "1 ngày trước"
+    },
+    {
+        "key": "days_ago",
+        "val": "ngày trước"
+    },
+    {
+        "key": "1_hour_ago",
+        "val": "1 giờ trước"
+    },
+    {
+        "key": "hours_ago",
+        "val": "giờ trước"
+    },
+    {
+        "key": "1_minute_ago",
+        "val": "1 phút trước"
+    },
+    {
+        "key": "minutes_ago",
+        "val": "phút trước"
+    },
+    {
+        "key": "1_second_ago",
+        "val": "1 giây trước"
+    },
+    {
+        "key": "seconds_ago",
+        "val": "giây trước"
+    },
+    {
+        "key": "Temrs_header",
+        "val": "Điều Khoản Sử Dụng"
+    },
+    {
+        "key": "Temrs_Para_1",
+        "val": "Thỏa thuận Điều Khoản Sử Dụng"
+    },
+    {
+        "key": "Temrs_Para_2",
+        "val": "Việc sử dụng ứng dụng OM Equix tuân theo \"Điều khoản sử dụng OM Equix\". Tôi đã đọc, hiểu và đồng ý với các điều khoản đang có trong \"Điều khoản sử dụng OM Equix\" có tại Menu của ứng dụng OM Equix."
+    },
+    {
+        "key": "Temrs_Para_3",
+        "val": "Điều khoản sử dụng của Ứng dụng OM"
+    },
+    {
+        "key": "Temrs_Para_4",
+        "val": "Các điều khoản và điều kiện giao dịch OpenMarkets áp dụng cho tài khoản giao dịch tại OpenMarkets của bạn và các tài liệu của OpenMarkets gửi cho bạn kể từ khi bạn mở tài khoản giao dịch tại OpenMarkets (bao gồm tất cả các sửa đổi và cập nhật cho các tài liệu này) khi bạn sử dụng Ứng dụng web OM Equix. Các điều khoản và điều kiện cũng như việc công bố thông tin áp dụng cho tất cả các giao dịch giữa bạn và OpenMarkets, nó có thể đọc được cùng với các Điều khoản và Điều kiện sử dụng của ứng dụng OM Equix. Bạn có thể lấy một bản sao của các tài liệu này bằng cách liên hệ với OpenMarkets (chi tiết liên lạc có sẵn tại:"
+    },
+    {
+        "key": "Temrs_Para_5",
+        "val": "(OM Equix App)"
+    },
+    {
+        "key": "Temrs_Para_6",
+        "val": "được cung cấp bởi OpenMarkets Australia Ltd ABN 38 090 472 012, AFSL Số 246 705"
+    },
+    {
+        "key": "Temrs_Para_7",
+        "val": "(OpenMarkets)"
+    },
+    {
+        "key": "Temrs_Para_8",
+        "val": "được sự cho phép của Quant Edge Pty Ltd, Việt Nam."
+    },
+    {
+        "key": "Temrs_Para_9",
+        "val": "Phạm vi áp dụng của các điều khoản giao dịch của OpenMarkets"
+    },
+    {
+        "key": "Temrs_Para_10",
+        "val": "Các điều khoản và điều kiện giao dịch OpenMarkets áp dụng cho tài khoản giao dịch tại OpenMarkets của bạn và các tài liệu của OpenMarkets gửi cho bạn kể từ khi bạn mở tài khoản giao dịch tại OpenMarkets (bao gồm tất cả các sửa đổi và cập nhật cho các tài liệu này) khi bạn sử dụng Ứng dụng web OM Equix. Các điều khoản và điều kiện cũng như việc công bố thông tin áp dụng cho tất cả các giao dịch giữa bạn và OpenMarkets, nó có thể đọc được cùng với các Điều khoản và Điều kiện sử dụng của ứng dụng OM Equix. Bạn có thể lấy một bản sao của các tài liệu này bằng cách liên hệ với OpenMarkets (chi tiết liên lạc có sẵn tại"
+    },
+    {
+        "key": "Temrs_Para_11",
+        "val": "hoặc trung gian tài chính mà qua đó bạn truy cập vào tài khoản giao dịch OpenMarkets của bạn. Bạn nhận thức được rằng Ứng dụng OM Equix là một phần của Dịch vụ DMA và Hệ thống DMA do OpenMarkets cung cấp và các điều khoản Dịch vụ DMA được nêu ra trong Điều khoản và điều kiện giao dịch của OpenMarkets sẽ áp dụng cho việc sử dụng Ứng dụng OM Equix."
+    },
+    {
+        "key": "Temrs_Para_12",
+        "val": "OpenMarkets không được phép kinh doanh tại bất kỳ khu vực pháp lý nào khác bên ngoài nước Úc. Ứng dụng OM Equix được sử dụng bởi những người dùng giao dịch chứng khoán của OpenMarkets tại Úc."
+    },
+    {
+        "key": "Temrs_Para_13",
+        "val": "Dữ liệu chỉ dành mục đích thông tin và không có mục đích tư vấn."
+    },
+    {
+        "key": "Temrs_Para_14",
+        "val": "OpenMarkets không tư vấn tài chính, khuyến nghị, hỗ trợ bất kỳ sản phẩm tài chính sẵn có nào cho cá nhân với mục đích giao dịch bằng Ứng dụng OM Equix. Không có thông tin hoặc dữ liệu nào trong ứng dụng OM Equix được coi là lời khuyên cho một hoặc nhiều người dùng. Bất kỳ người dùng nào, trước khi hành động dựa trên thông tin trong Ứng dụng OM Equix, cần xem xét sự phù hợp của thông tin, tính khách quan, tình hình tài chính và nhu cầu của họ,  trong trường hợp cần thiết, tìm kiếm lời khuyên chuyên môn phù hợp. Bất kỳ dữ liệu hoặc thông tin khác được cung cấp trong Ứng dụng OM Equix, bao gồm biểu đồ và cảnh báo, chỉ được cung cấp với mục đích thông tin của bạn, không dựa trên mục đích thuế, đầu tư hoặc bất kỳ mục đích nào khác. OpenMarkets không đại diện hay bảo đảm về tính kịp thời, tin cậy, chính xác hoặc đầy đủ củanội dung chứa trong dữ liệu và thông tin trong OM Equix App hoặc bất kỳ cảnh báo nào, cũng như không chấp nhận bất kỳ trách nhiệm nào khi phát sinh lỗi hoặc thiếu sót từ nội dung cung cấp trên."
+    },
+    {
+        "key": "Temrs_Para_15",
+        "val": "Tính sẵn có của Ứng dụng OM Equix"
+    },
+    {
+        "key": "Temrs_Para_16",
+        "val": "Bạn nhận thức được rằng bất cứ lúc nào, việc bạn truy cập vào Ứng dụng OM Equix còn phụ thuộc vào các yếu tố ngoài tầm kiểm soát của OpenMarkets, bao gồm bất kỳ sự gián đoạn, sự cố hoặc trục trặc của Internet, dịch vụ di động hoặc mạng khác. Truy cập cũng có thể bị hạn chế hoặc không sẵn sàng trong các giai đoạn có nhu cầu cao điểm, nhiễu hệ thống, hư hỏng hoặc bảo trì hoặc vì các lý do khác. Bạn nhận thức được rằng OpenMarkets có thể, tự quyết định, tạm dừng hoặc ngừng dịch vụ Ứng dụng OM Equix bất kỳ lúc nào mà không cần thông báo."
+    },
+    {
+        "key": "Temrs_Para_17",
+        "val": "OpenMarkets không có bất kỳ nghĩa vụ nào với việc sử dụng Ứng dụng OM Equix của bạn."
+    },
+    {
+        "key": "Temrs_Para_18",
+        "val": "Bạn đồng ý rằng OpenMarkets sẽ không chịu trách nhiệm về bất kỳ tổn thất hoặc thiệt hại trực tiếp hoặc gián tiếp nào của bạn, bất kỳ điều gì xảy ra, phát sinh từ việc bạn sử dụng Ứng dụng OM Equix, bao gồm OM Equix Web App hoặc bất kỳ thành phần hoặc tính năng nào của Ứng dụng OM Equix (bao gồm Cảnh báo), không hoạt động hoặc hiệu quả như dự kiến (hoặc không hoạt động) hoặc hậu quả của việc truy cập trái phép vào các tài khoản giao dịch chứng khoán hoặc các tài khoản giao dịch OpenMarkets của bạn bằng Ứng dụng OM Equix Web. Bạn đồng ý rằng nếu vì bất kỳ lý do nào bạn không thể truy cập vào tài khoản giao dịch của bạn hoặc OpenMarkets thông qua OM Equix Web App, bạn sẽ có thể liên hệ với OpenMarkets bằng cách gọi số 1300 769 433, thứ Hai đến thứ Sáu, 8:30 sáng đến 5:30 chiều theo giờ Melbourne."
+    },
+    {
+        "key": "Temrs_Para_19",
+        "val": "Việc sử dụng thông tin cá nhân trong ứng dụng OM Equix"
+    },
+    {
+        "key": "Temrs_Para_20",
+        "val": "Chính sách bảo mật của OpenMarkets áp dụng cho việc thu thập và sử dụng thông tin cá nhân của bạn liên quan đến Ứng dụng OM Equix (có sẵn tại"
+    },
+    {
+        "key": "Temrs_Para_21",
+        "val": "). Ứng dụng OM Equix được hỗ trợ bởi Quant Edge Pty Ltd, Việt Nam. Do việc bạn sử dụng Ứng dụng OM Equix, thông tin cá nhân của bạn bao gồm thông tin trong tài khoản giao dịch OpenMarkets của bạn có thể được tiết lộ cho Công ty Cổ phần Quant Edge tại Việt Nam. Ý nghĩa của việc tiết lộ này được nêu trong Chính sách bảo mật của OpenMarkets sau đây"
+    },
+    {
+        "key": "Temrs_Para_21_1",
+        "val": "Tiết lộ thông tin cá nhân ở nước ngoài"
+    },
+    {
+        "key": "Temrs_Para_21_2",
+        "val": ". Bạn đồng ý với OpenMarkets thực hiện việc tiết lộ thông tin cá nhân của bạn và đồng ý sự cho phép này vẫn tồn tại trừ khi bạn từ chối một cách rõ rà"
+    },
+    {
+        "key": "Temrs_Para_22",
+        "val": "OpenMarkets đã ký một thỏa thuận với Công ty Cổ phần Quant Edge yêu cầu Công ty Cổ phần Quant Edge thực hiện các bước để tuân thủ luật riêng tư của Úc. Công ty cổ phần sẽ sử dụng thông tin cá nhân của bạn với mục đích cung cấp cho bạn Ứng dụng OM Equix bao gồm bảo trì và hỗ trợ cho Ứng dụng OM Equix và nếu Công ty cổ phần Quant Edge không nhận được thông tin cá nhân của bạn, bạn sẽ không thể sử dụng ứng dụng OM Equix . Công ty Cổ phần Quant Edge sẽ không tiết lộ thông tin cá nhân của bạn cho bất kỳ cá nhân hoặc tổ chức nào khác, ngoài các quy định trong Chính sách bảo mật của OpenMarkets."
+    },
+    {
+        "key": "Temrs_Para_23",
+        "val": "Các kết nối trong Ứng dụng OM Equix"
+    },
+    {
+        "key": "Temrs_Para_24",
+        "val": "Các liên kết trong ứng dụng có thể đưa bạn tới các trang web không liên kết với OpenMarkets và có thể phải tuân theo các chính sách bảo mật khác nhau. OpenMarkets không chịu trách nhiệm và không xác nhận, đảm bảo hoặc kiểm soát nội dung, tính khả dụng, sản phẩm hoặc dịch vụ được cung cấp hoặc thể hiện trên các trang web khác. Mọi tiết lộ về thông tin của bạn đối với bất kỳ bên thứ ba nào thông qua trang web được liên kết sẽ không phải tuân thủ chính sách bảo mật của OpenMarkets hoặc các biện pháp bảo mật thông tin."
+    },
+    {
+        "key": "Temrs_Para_25",
+        "val": "Bảo mật và truy cập vào Ứng dụng OM Equip"
+    },
+    {
+        "key": "Temrs_Para_26",
+        "val": "Bạn tự chịu trách nhiệm về các biện pháp bảo mật chống vi-rút và thiết bị di động của riêng bạn và các biện pháp bảo mật của bất kỳ người dùng được ủy quyền nào. Bạn có trách nhiệm đảm bảo rằng không cho phép người không được uỷ quyền truy cập vào tài khoản giao dịch OpenMarkets của bạn và bạn phải bảo vệ thông tin bảo mật của mình như tên người dùng, mật khẩu và mã truy cập an toàn. Bạn nhận thức được và đồng ý rằng bạn chịu trách nhiệm cho các giao dịch trên tài khoản giao dịch OpenMarkets của bạn bằng ứng dụng OM Equix bao gồm sự không an toàn của nơi bạn truy cập vào ứng dụng OM Equix và OpenMarkets sẽ coi các giao dịch được đặt trên tài khoản giao dịch OpenMarkets của bạn thông qua OM Equix App đã được bạn ủy quyền. Nếu bạn đã bật vân tay hoặc nhận dạng khuôn mặt trên ứng dụng OM Equix, sẽ không có bất kỳ dấu vân tay hoặc bản ghi nhận dạng khuôn mặt nào được lưu trữ trên thiết bị, ngoài thiết bị của riêng bạn. Nếu người khác sử dụng dấu vân tay hoặc nhận dạng khuôn mặt trên thiết bị của bạn, bạn nên tắt tính năng này trong Ứng dụng OM Equix."
+    },
+    {
+        "key": "Temrs_Para_27",
+        "val": "Nếu bạn hoặc người khác thay đổi cài đặt nhận dạng vân tay hoặc nhận dạng khuôn mặt trên thiết bị của bạn, vì lý do bảo mật bằng dấu vân tay và / hoặc nhận dạng khuôn mặt, truy cập sẽ bị vô hiệu hóa cho Ứng dụng OM Equix và bạn sẽ được nhắc nhập mã PIN hoặc mật khẩu để đăng nhập vào ứng dụng OM Equix. Chỉ bật lại vân tay hoặc truy cập nhận dạng khuôn mặt nếu bạn chắc chắn rằng các thay đổi được thực hiện cho vân tay hoặc cài đặt nhận dạng khuôn mặt trên thiết bị của bạn do bạn thực hiện. OpenMarkets không chịu trách nhiệm cho bất kỳ sự cố nào trong chức năng nhận diện vân tay hoặc nhận dạng khuôn mặt hoặc thay đổi công nghệ nhận dạng vân tay hoặc nhận dạng khuôn mặt ảnh hưởng đến cách bạn truy cập vào ứng dụng OM Equix."
+    },
+    {
+        "key": "Temrs_Para_28",
+        "val": "Cảnh báo"
+    },
+    {
+        "key": "Temrs_Para_29",
+        "val": "Ứng dụng OM Equix có thể cho phép bạn chọn nhận Cảnh báo qua dịch vụ gửi Thông báo hoặc email. Cảnh báo được gửi qua thông báo sẽ được gửi đến bất kỳ thiết bị nào mà bạn đã cài đặt và đăng ký Ứng dụng OM Equix khi bật chức năng Thông báo. Cảnh báo có thể được nhìn thấy bởi những người khác (kể cả những người không có quyền sử dụng hoặc truy cập thiết bị của bạn. Bạn có trách nhiệm kiểm tra cài đặt \"Thông báo\" trên tất cả các thiết bị của mình để đảm bảo cài đặt bảo mật và cảnh báo phù hợp cho việc sử dụng của bạn."
+    },
+    {
+        "key": "Temrs_Para_30",
+        "val": "Thay đổi Điều khoản và Điều kiện Sử dụng của OM Equix"
+    },
+    {
+        "key": "Temrs_Para_31",
+        "val": "Bất kỳ sửa đổi nào đối với Điều khoản và Điều kiện Sử dụng Ứng dụng OM Equix sẽ được xuất bản trong Ứng dụng OM Equix và có thể được truy cập trên menu OM Equix App. Bạn đồng ý tiếp tục sử dụng Ứng dụng OM Equix sau khi nhận được thông báo sửa đổi Điều khoản và Điều kiện Sử dụng OM Equix, và đồng ý với Điều khoản và Điều kiện Sử dụng OM Equix đã sửa đổi."
+    },
+    {
+        "key": "Temrs_Dont_display_again",
+        "val": "Không hiển thị lại"
+    },
+    {
+        "key": "Temrs_I_Accept",
+        "val": "TÔI ĐỒNG Ý"
+    },
+    {
+        "key": "Halt",
+        "val": "Tạm dừng giao dịch"
+    },
+    {
+        "key": "Halt_Lifted",
+        "val": "Giao dịch trở lại"
+    },
+    {
+        "key": "Sensitive",
+        "val": "Nhạy cảm"
+    },
+    {
+        "key": "Amend",
+        "val": "Sửa"
+    },
+    {
+        "key": "Cancel",
+        "val": "Huỷ"
+    },
+    {
+        "key": "Place",
+        "val": "Đặt"
+    },
+    {
+        "key": "Unknown",
+        "val": "Không xác định"
+    },
+    {
+        "key": "On_Market",
+        "val": "Lên Sàn"
+    },
+    {
+        "key": "Partial_Fill",
+        "val": "Khớp một phần"
+    },
+    {
+        "key": "PartiallyFilled",
+        "val": "Đã khớp một phần"
+    },
+    {
+        "key": "Filled",
+        "val": "Đã Khớp"
+    },
+    {
+        "key": "Done_For_Day",
+        "val": "Khớp trong ngày"
+    },
+    {
+        "key": "Cancelled",
+        "val": "Đã huỷ"
+    },
+    {
+        "key": "Amended",
+        "val": "Đã sửa"
+    },
+    {
+        "key": "Cancelling",
+        "val": "Đang huỷ"
+    },
+    {
+        "key": "Announcement",
+        "val": "Thông báo"
+    },
+    {
+        "key": "announcement",
+        "val": "thông báo"
+    },
+    {
+        "key": "Stopped",
+        "val": "Đã Stop"
+    },
+    {
+        "key": "Rejected",
+        "val": "Bị từ chối"
+    },
+    {
+        "key": "Reject_Cancel",
+        "val": "Từ chối Huỷ"
+    },
+    {
+        "key": "Reject",
+        "val": "Từ chối"
+    },
+    {
+        "key": "Suspended",
+        "val": "Bị dừng"
+    },
+    {
+        "key": "Pending",
+        "val": "Đang chờ"
+    },
+    {
+        "key": "Reject_Amend",
+        "val": "Từ chối Sửa"
+    },
+    {
+        "key": "Calculated",
+        "val": "Đã tính"
+    },
+    {
+        "key": "Expired",
+        "val": "Hết hạn"
+    },
+    {
+        "key": "Accepted_For_Bidding",
+        "val": "Được chấp nhận Mua"
+    },
+    {
+        "key": "Amending",
+        "val": "Đang sửa"
+    },
+    {
+        "key": "Triggered",
+        "val": "đã kích hoạt"
+    },
+    {
+        "key": "B",
+        "val": "M"
+    },
+    {
+        "key": "BUY",
+        "val": "MUA"
+    },
+    {
+        "key": "PLACE_BUY_ORDER"
+    },
+    {
+        "key": "PLACE_SELL_ORDER"
+    },
+    {
+        "key": "BUYING",
+        "val": "ĐANG MUA"
+    },
+    {
+        "key": "SELLING",
+        "val": "ĐANG BÁN"
+    },
+    {
+        "key": "Buy",
+        "val": "Mua"
+    },
+    {
+        "key": "S",
+        "val": "B"
+    },
+    {
+        "key": "SELL",
+        "val": "BÁN"
+    },
+    {
+        "key": "Sell",
+        "val": "Bán"
+    },
+    {
+        "key": "Last",
+        "val": "Giá khớp cuối cùng"
+    },
+    {
+        "key": "Open",
+        "val": "Giá mở cửa"
+    },
+    {
+        "key": "Size",
+        "val": "Khối lượng"
+    },
+    {
+        "key": "High",
+        "val": "Giá cao nhất"
+    },
+    {
+        "key": "REDUCE",
+        "val": "_REDUCE"
+    },
+    {
+        "key": "Net_Change",
+        "val": "Thay đổi ròng"
+    },
+    {
+        "key": "Low",
+        "val": "Giá thấp nhất"
+    },
+    {
+        "key": "%Change",
+        "val": "%Thay đổi"
+    },
+    {
+        "key": "Close",
+        "val": "Giá đóng cửa"
+    },
+    {
+        "key": "Bid",
+        "val": "Mua"
+    },
+    {
+        "key": "B-Size",
+        "val": "KL Mua"
+    },
+    {
+        "key": "Bid_Vol",
+        "val": "KL Mua"
+    },
+    {
+        "key": "Bid_Qty",
+        "val": "KL Mua"
+    },
+    {
+        "key": "Ask_Qty",
+        "val": "KL Bán"
+    },
+    {
+        "key": "Ask_Vol",
+        "val": "KL Bán"
+    },
+    {
+        "key": "Ask",
+        "val": "Bán"
+    },
+    {
+        "key": "A-Size",
+        "val": "KL Bán"
+    },
+    {
+        "key": "Volume",
+        "val": "Khối lượng"
+    },
+    {
+        "key": "Today_Volume",
+        "val": "Khối lượng hôm nay"
+    },
+    {
+        "key": "Previous_Close",
+        "val": "Giá đóng cửa trước đó"
+    },
+    {
+        "key": "TOTAL_(AUD)"
+    },
+    {
+        "key": "TOTAL_UPnL_(AUD)",
+        "val": "TỔNG Lợi nhuận chưa ghi nhận (AUD)"
+    },
+    {
+        "key": "AUD",
+        "val": "AUD"
+    },
+    {
+        "key": "CASH_BALANCE",
+        "val": "SỐ DƯ TIỀN"
+    },
+    {
+        "key": "PENDING_BUY_ORDER",
+        "val": "LỆNH MUA CHỜ KHỚP"
+    },
+    {
+        "key": "NET_EXPOSURE",
+        "val": "_NET EXPOSURE"
+    },
+    {
+        "key": "CASH_AVAILABLE",
+        "val": "TIỀN SẴN CÓ"
+    },
+    {
+        "key": "VOLUME",
+        "val": "KHỐI LƯỢNG"
+    },
+    {
+        "key": "TODAY_VOLUME",
+        "val": "KHỐI LƯỢNG HÔM NAY"
+    },
+    {
+        "key": "VALUE_TRADE",
+        "val": "GIÁ TRỊ GIAO DỊCH"
+    },
+    {
+        "key": "FEES",
+        "val": "PHÍ"
+    },
+    {
+        "key": "CANCEL",
+        "val": "HỦY BỎ"
+    },
+    {
+        "key": "CONFIRM",
+        "val": "XÁC NHẬN"
+    },
+    {
+        "key": "MRK_PRICE",
+        "val": "GIÁ TT"
+    },
+    {
+        "key": "AVR_PRICE",
+        "val": "GIÁ TB"
+    },
+    {
+        "key": "VALUE",
+        "val": "GIÁ TRỊ"
+    },
+    {
+        "key": "UPnL",
+        "val": "LN chưa ghi nhận"
+    },
+    {
+        "key": "%UPnL",
+        "val": "%LN chưa ghi nhận"
+    },
+    {
+        "key": "UPnL_TODAY",
+        "val": "LN chưa ghi nhận HÔM NAY"
+    },
+    {
+        "key": "%UPnL_TODAY",
+        "val": "%LN chưa ghi nhận HÔM NAY"
+    },
+    {
+        "key": "ACTION",
+        "val": "HÀNH ĐỘNG"
+    },
+    {
+        "key": "cent",
+        "val": "cent"
+    },
+    {
+        "key": "Note_1_on_NewOrder",
+        "val": "Lệnh market to limit để"
+    },
+    {
+        "key": "Note_2_on_NewOrder",
+        "val": "đã được gửi như lệnh Market để thực hiện tại giá tối ưu"
+    },
+    {
+        "key": "Note_3_on_NewOrder",
+        "val": "giá sẵn có trên thị trường. Nếu lệnh chỉ khớp một phần, khối lượng còn lại của lệnh sẽ được chuyển để khớp với lệnh Limit tại mức giá bằng với mức giá đã khớp một phần của lệnh này"
+    },
+    {
+        "key": "Note_4_on_NewOrder",
+        "val": "Lệnh Limit để"
+    },
+    {
+        "key": "Note_5_on_NewOrder",
+        "val": "chỉ thực hiện được tại"
+    },
+    {
+        "key": "Note_16_on_NewOrder",
+        "val": "Một lệnh Market để"
+    },
+    {
+        "key": "Note_17_on_NewOrder",
+        "val": "đã được gửi đi để thực hiện tại mức tối ưu"
+    },
+    {
+        "key": "Note_18_on_NewOrder",
+        "val": "giá sẵn có trên thị trường."
+    },
+    {
+        "key": "Note_19_on_NewOrder",
+        "val": "Lệnh Stop Loss để"
+    },
+    {
+        "key": "Note_20_on_NewOrder",
+        "val": "bao gồm cả giá Stop và giá Market. Khi giá Market"
+    },
+    {
+        "key": "Note_21_on_NewOrder",
+        "val": "hoặc vượt qua, giá Stop được kích hoạt và lệnh trở thành lệnh Market cho"
+    },
+    {
+        "key": "Note_22_on_NewOrder",
+        "val": "tại giá Market"
+    },
+    {
+        "key": "Note_23_on_NewOrder",
+        "val": "Một lệnh Limit để"
+    },
+    {
+        "key": "Note_25_on_NewOrder",
+        "val": "hoặc thấp hơn"
+    },
+    {
+        "key": "or",
+        "val": "hoặc"
+    },
+    {
+        "key": "Note_6_on_NewOrder",
+        "val": "Lệnh Stop Limit để"
+    },
+    {
+        "key": "Note_1_stoploss_on_NewOrder",
+        "val": "Lệnh Stop Loss để"
+    },
+    {
+        "key": "Note_2_stoploss_on_NewOrder",
+        "val": "bao gồm cả giá Stop và giá Market. Khi giá Market"
+    },
+    {
+        "key": "Note_3_stoploss_on_NewOrder",
+        "val": "hoặc vượt qua nó, giá Stop được kích hoạt và lệnh sẽ trở thành lệnh Market"
+    },
+    {
+        "key": "Note_1_trailingstoplimit_on_NewOrder",
+        "val": "Lệnh Trailing Stop Limit để"
+    },
+    {
+        "key": "Note_2_trailingstoplimit_on_NewOrder",
+        "val": "gồm giá Trailing Stop,"
+    },
+    {
+        "key": "Note_3_trailingstoplimit_on_NewOrder",
+        "val": "và giá Limit. Giá Trailing Stop ban đầu là"
+    },
+    {
+        "key": "Note_4_trailingstoplimit_on_NewOrder",
+        "val": "Nếu giá Market"
+    },
+    {
+        "key": "Note_6_trailingstoplimit_on_NewOrder",
+        "val": "giá Trailing Stop sẽ chuyển xuống thấp hơn, hoặc bằng với giá Market cộng"
+    },
+    {
+        "key": "Note_5_trailingstoplimit_on_NewOrder",
+        "val": "Tuy nhiên, nếu giá Market"
+    },
+    {
+        "key": "Note_7_trailingstoplimit_on_NewOrder",
+        "val": "Giá Trailing Stop sẽ giữ nguyên. Cho đến khi giá Stop được kích hoạt, Lệnh sẽ chuyển thành lệnh Limit để"
+    },
+    {
+        "key": "market_price",
+        "val": "giá Market"
+    },
+    {
+        "key": "trailing_amount",
+        "val": "khối lượng Trailing"
+    },
+    {
+        "key": "Note_7_on_NewOrder",
+        "val": "bao gồm cả giá Stop và giá Limit. Khi giá thị trường giảm xuống"
+    },
+    {
+        "key": "Note_8_on_NewOrder",
+        "val": "hoặc vượt qua nó, lệnh sẽ trở thành lệnh Limit, kích hoạt tại giá Stop"
+    },
+    {
+        "key": "at",
+        "val": "tại"
+    },
+    {
+        "key": "to",
+        "val": "thành"
+    },
+    {
+        "key": "Best",
+        "val": "Tốt nhất"
+    },
+    {
+        "key": "and",
+        "val": "và"
+    },
+    {
+        "key": "increases to",
+        "val": "tăng lên tới"
+    },
+    {
+        "key": "is_Amended",
+        "val": "đã được sửa"
+    },
+    {
+        "key": "or_higher",
+        "val": "hoặc cao hơn"
+    },
+    {
+        "key": "or_lower",
+        "val": "hoặc thấp hơn"
+    },
+    {
+        "key": "Note_9_on_NewOrder",
+        "val": "Ghi chú: OM Equix hiện tại chỉ hỗ trợ lệnh bán Stop Limit, lệnh mua Stop Limit sẽ sớm được hỗ trợ trong các phiên bản sau."
+    },
+    {
+        "key": "Order_to",
+        "val": "Lệnh tới"
+    },
+    {
+        "key": "Order_from",
+        "val": "Lệnh từ"
+    },
+    {
+        "key": "of",
+        "val": "của"
+    },
+    {
+        "key": "Amending_Order",
+        "val": "Đang sửa lệnh"
+    },
+    {
+        "key": "MARKET_Price",
+        "val": "Giá MARKET"
+    },
+    {
+        "key": "Trigger_at",
+        "val": "Kích hoạt tại"
+    },
+    {
+        "key": "Trigger",
+        "val": "Kích hoạt"
+    },
+    {
+        "key": "MODIFY_to_BUY_/",
+        "val": "SỬA thành MUA /"
+    },
+    {
+        "key": "MODIFY_to_SELL_/",
+        "val": "SỬA thành BÁN /"
+    },
+    {
+        "key": "Order_Type",
+        "val": "Loại Lệnh"
+    },
+    {
+        "key": "Stop_(Trigger)_Price",
+        "val": "Giá Stop (Kích hoạt)"
+    },
+    {
+        "key": "Stop_Price",
+        "val": "Giá Stop"
+    },
+    {
+        "key": "Placing_Order",
+        "val": "Đang đặt Lệnh"
+    },
+    {
+        "key": "No_Saxo_Trading",
+        "val": "Không giao dịch Saxo"
+    },
+    {
+        "key": "Allow_to_Trade",
+        "val": "Cho phép giao dịch"
+    },
+    {
+        "key": "Close_Positions_Only",
+        "val": "Chỉ Đóng Vị Thế"
+    },
+    {
+        "key": "Success",
+        "val": "Thành công"
+    },
+    {
+        "key": "Successful_!",
+        "val": "Thành công!"
+    },
+    {
+        "key": "Error",
+        "val": "Lỗi"
+    },
+    {
+        "key": "ERROR_CHANGE",
+        "val": "Trạng Thái Giao Dịch không thể chuyển sang Không Giao Dịch Saxo vì Giá trị Tài khoản Saxo khác KHÔNG."
+    },
+    {
+        "key": "Note_10_on_NewOrder",
+        "val": "Tiền sẵn có là"
+    },
+    {
+        "key": "Note_11_on_NewOrder",
+        "val": "Giá trị lệnh là"
+    },
+    {
+        "key": "Note_12_on_NewOrder",
+        "val": "Phí ước tính là"
+    },
+    {
+        "key": "BID",
+        "val": "MUA"
+    },
+    {
+        "key": "ASK",
+        "val": "BÁN"
+    },
+    {
+        "key": "Exchange",
+        "val": "Sàn"
+    },
+    {
+        "key": "Description",
+        "val": "Mô tả"
+    },
+    {
+        "key": "Show_More",
+        "val": "Mở rộng"
+    },
+    {
+        "key": "Show_Less",
+        "val": "Thu gọn"
+    },
+    {
+        "key": "SUMMARY",
+        "val": "TÓM TẮT"
+    },
+    {
+        "key": "Summary",
+        "val": "Tóm tắt"
+    },
+    {
+        "key": "Order_Value",
+        "val": "Giá trị lệnh"
+    },
+    {
+        "key": "Estimated_Fees",
+        "val": "Phí ước tính"
+    },
+    {
+        "key": "Duration",
+        "val": "Duration"
+    },
+    {
+        "key": "Good_Till_Cancelled",
+        "val": "Good Till Cancelled"
+    },
+    {
+        "key": "Fill_Or_Kill",
+        "val": "Fill Or Kill"
+    },
+    {
+        "key": "DAY",
+        "val": "DAY"
+    },
+    {
+        "key": "Immediate_Or_Cancel",
+        "val": "Immediate Or Cancel"
+    },
+    {
+        "key": "STOP",
+        "val": "STOP"
+    },
+    {
+        "key": "LIMIT",
+        "val": "LIMIT"
+    },
+    {
+        "key": "MARKET",
+        "val": "MARKET"
+    },
+    {
+        "key": "MARKET_TO_LIMIT",
+        "val": "MARKET_TO_LIMIT"
+    },
+    {
+        "key": "TRAILING_STOP",
+        "val": "TRAILING STOP"
+    },
+    {
+        "key": "TRAILING_STOP_LIMIT",
+        "val": "TRAILING STOP LIMIT"
+    },
+    {
+        "key": "TSL",
+        "val": "TSL"
+    },
+    {
+        "key": "Trailing_Stop_Limit",
+        "val": "Trailing Stop Limit"
+    },
+    {
+        "key": "STOP-LOSS",
+        "val": "STOP LOSS"
+    },
+    {
+        "key": "STOP_LOSS",
+        "val": "STOP LOSS"
+    },
+    {
+        "key": "TRAILING_STOP_PRICE",
+        "val": "TRAILING STOP PRICE"
+    },
+    {
+        "key": "Stop",
+        "val": "Stop"
+    },
+    {
+        "key": "Limit",
+        "val": "Limit"
+    },
+    {
+        "key": "Market_To_Limit",
+        "val": "Market To Limit"
+    },
+    {
+        "key": "Trailing_Stop",
+        "val": "Trailing Stop"
+    },
+    {
+        "key": "Stop_Loss",
+        "val": "Stop Loss"
+    },
+    {
+        "key": "Stop_Limit",
+        "val": "Stop Limit"
+    },
+    {
+        "key": "TrailingStopLoss",
+        "val": "Trailing Stop Loss"
+    },
+    {
+        "key": "OrderVolumeZero",
+        "val": "Khối lượng phải lớn hơn 0"
+    },
+    {
+        "key": "OrderLimitPriceZero",
+        "val": "Vui lòng nhập giá Limit hợp lệ"
+    },
+    {
+        "key": "OrderStopPriceZero",
+        "val": "Vui lòng nhập giá Stop hợp lệ"
+    },
+    {
+        "key": "AccountMustBeSelectedFirst"
+    },
+    {
+        "key": "TrailingStopPriceZero",
+        "val": "Vui lòng nhập giá Trailing Stop hợp lệ"
+    },
+    {
+        "key": "TrailingAmountZero",
+        "val": "Vui lòng nhập Khối lượng Trailing/ phần trăm hợp lệ"
+    },
+    {
+        "key": "Day",
+        "val": "Ngày"
+    },
+    {
+        "key": "Week",
+        "val": "Tuần"
+    },
+    {
+        "key": "Month",
+        "val": "Tháng"
+    },
+    {
+        "key": "Quarter",
+        "val": "Quý"
+    },
+    {
+        "key": "Year",
+        "val": "Năm"
+    },
+    {
+        "key": "YES",
+        "val": "CÓ"
+    },
+    {
+        "key": "NO",
+        "val": "KHÔNG"
+    },
+    {
+        "key": "Cash",
+        "val": "Tiền mặt"
+    },
+    {
+        "key": "Holdings",
+        "val": "Nắm giữ"
+    },
+    {
+        "key": "Holding",
+        "val": "Nắm giữ"
+    },
+    {
+        "key": "Summary_Information",
+        "val": "Thông tin tóm tắt"
+    },
+    {
+        "key": "FINANCIAL_SUMMARY",
+        "val": "TÓM TẮT TÀI CHÍNH"
+    },
+    {
+        "key": "Cash/Holding_Chart",
+        "val": "Biểu đồ Tiền mặt/ Chứng khoán đang nắm giữ"
+    },
+    {
+        "key": "Total_Portfolio_Value",
+        "val": "Tổng giá trị danh mục"
+    },
+    {
+        "key": "Net_Trade_Flows",
+        "val": "Giao dịch ròng"
+    },
+    {
+        "key": "Total_Brokerage",
+        "val": "Tổng phí môi giới"
+    },
+    {
+        "key": "HOLDINGS_VALUATION",
+        "val": "GIÁ TRỊ ĐANG NẮM GIỮ"
+    },
+    {
+        "key": "Holdings_Valuation_at",
+        "val": "Giá trị đang nắm giữ tại"
+    },
+    {
+        "key": "Symbol",
+        "val": "Mã"
+    },
+    {
+        "key": "Code",
+        "val": "Mã"
+    },
+    {
+        "key": "Last_Trade_(Quantity)",
+        "val": "Giao dịch gần nhất (Khối lượng)"
+    },
+    {
+        "key": "Todays_Change",
+        "val": "Thay đổi hôm nay"
+    },
+    {
+        "key": "Company_Name",
+        "val": "Tên Công ty"
+    },
+    {
+        "key": "COMPANY NAME",
+        "val": "TÊN CÔNG TY"
+    },
+    {
+        "key": "Quantity",
+        "val": "Khối lượng"
+    },
+    {
+        "key": "Price",
+        "val": "Giá"
+    },
+    {
+        "key": "Value",
+        "val": "Giá trị"
+    },
+    {
+        "key": "Other",
+        "val": "Khác"
+    },
+    {
+        "key": "ORTHERS",
+        "val": "KHÁC"
+    },
+    {
+        "key": "TRANSACTION_SUMMARY",
+        "val": "TÓM TẮT CÁC GIAO DỊCH"
+    },
+    {
+        "key": "TYPE",
+        "val": "LOẠI"
+    },
+    {
+        "key": "DATE",
+        "val": "NGÀY"
+    },
+    {
+        "key": "QUANTITY",
+        "val": "KHỐI LƯỢNG"
+    },
+    {
+        "key": "QTY",
+        "val": "KL"
+    },
+    {
+        "key": "BROKERAGE",
+        "val": "PHÍ MÔI GIỚI"
+    },
+    {
+        "key": "GST",
+        "val": "THUẾ GST"
+    },
+    {
+        "key": "OTHER_FEES",
+        "val": "CÁC PHÍ KHÁC"
+    },
+    {
+        "key": "TOTAL",
+        "val": "TỔNG"
+    },
+    {
+        "key": "CASH_ACCOUNT_SUMMARY",
+        "val": "TÓM TẮT SỐ DƯ TIỀN"
+    },
+    {
+        "key": "Cash_at_Start_of_period",
+        "val": "Số dư tiền đầu kỳ"
+    },
+    {
+        "key": "Total_Fees",
+        "val": "Tổng phí"
+    },
+    {
+        "key": "Cash_at_End_of_period",
+        "val": "Số dư tiền cuối kỳ"
+    },
+    {
+        "key": "MKT",
+        "val": "MKT"
+    },
+    {
+        "key": "Stop-Loss",
+        "val": "Stop Loss"
+    },
+    {
+        "key": "Stop-Limit",
+        "val": "Stop Limit"
+    },
+    {
+        "key": "Start_a_Buy_Order",
+        "val": "Bắt đầu lệnh Mua"
+    },
+    {
+        "key": "Start_a_Sell_Order",
+        "val": "Bắt đầu Lệnh Bán"
+    },
+    {
+        "key": "page",
+        "val": "Trang"
+    },
+    {
+        "key": "pages",
+        "val": "Trang"
+    },
+    {
+        "key": "No_attachment",
+        "val": "Không có đính kèm"
+    },
+    {
+        "key": "Go",
+        "val": "Đi"
+    },
+    {
+        "key": "Market_Price",
+        "val": "Market Price"
+    },
+    {
+        "key": "LMT",
+        "val": "LMT"
+    },
+    {
+        "key": "Set_PIN",
+        "val": "Đặt PIN"
+    },
+    {
+        "key": "Next",
+        "val": "Tiếp"
+    },
+    {
+        "key": "Operation",
+        "val": "Vận hành hệ thống"
+    },
+    {
+        "key": "Saxo_Clients_Management",
+        "val": "Quản lý khách hàng Saxo"
+    },
+    {
+        "key": "Enter_a_PIN",
+        "val": "Nhập PIN"
+    },
+    {
+        "key": "Enter_PIN_for_OM_EQUIX",
+        "val": "Nhập PIN cho OM EQUIX"
+    },
+    {
+        "key": "PIN_for",
+        "val": "PIN cho"
+    },
+    {
+        "key": "Bid_Price",
+        "val": "Giá Mua"
+    },
+    {
+        "key": "Offer",
+        "val": "Bán"
+    },
+    {
+        "key": "Offer_Price",
+        "val": "Giá Bán"
+    },
+    {
+        "key": "Offer_Qty",
+        "val": "KL Bán"
+    },
+    {
+        "key": "Upload_Links_CSV",
+        "val": "Tải lên các links CSV"
+    },
+    {
+        "key": "Last_Updated",
+        "val": "Cập nhật lần cuối"
+    },
+    {
+        "key": "Saxo_Note_Yellow",
+        "val": "Thông tin khách hàng sai, tài khoản sẽ không được kết nối"
+    },
+    {
+        "key": "Saxo_Note_Red",
+        "val": "Tài khoản chưa được kết nối"
+    },
+    {
+        "key": "Switch_All_Accounts",
+        "val": "Chuyển tất cả các Tài khoản sang Chỉ Đóng Vị Thế"
+    },
+    {
+        "key": "Reject_All_Overrides",
+        "val": "Từ chối tất cả các chỉnh sửa"
+    },
+    {
+        "key": "Change_(%)",
+        "val": "Thay đổi (%)"
+    },
+    {
+        "key": "OrderStopPriceCanNotBeLessAskPrice",
+        "val": "Giá Stop không thể nhỏ hơn giá bán"
+    },
+    {
+        "key": "OrderStopPriceCanNotGreaterLimitPrice",
+        "val": "Giá Stop không thể lớn hơn giá Limit"
+    },
+    {
+        "key": "OrderStopPriceCanNotGreaterBidPrice",
+        "val": "Giá Stop không thể lớn hơn giá Mua"
+    },
+    {
+        "key": "VolumeMoreThanFilled",
+        "val": "Khối lượng được sửa phải lớn hơn khối lượng đã khớp"
+    },
+    {
+        "key": "OrderStopPriceCanNotLessLimitPrice",
+        "val": "Giá Stop không thể nhỏ hơn giá Limit"
+    },
+    {
+        "key": "TrailingStopPriceCanNotGreaterAskPrice",
+        "val": "Giá Trailing Stop không thể lớn hơn giá Bán"
+    },
+    {
+        "key": "TrailingStopPriceCanNotGreaterLimitPrice",
+        "val": "Giá Trailing Stop không thể lớn hơn giá Limit"
+    },
+    {
+        "key": "TrailingStopPriceCanNotGreaterBidPrice",
+        "val": "Giá Trailing Stop không thể lớn hơn giá Mua"
+    },
+    {
+        "key": "TrailingStopPriceCanNotLessLimitPrice",
+        "val": "Giá Trailing Stop không thể nhỏ hơn giá Limit"
+    },
+    {
+        "key": "CodeMustBeSelectedFirst",
+        "val": "Mã phải được chọn trước"
+    },
+    {
+        "key": "First_Set_Pin_Description",
+        "val": "Đây là lần đầu tiên bạn đăng nhập OpenMarkets Equix hoặc gần đây bạn đã đặt lại mã PIN. Vì vậy, bạn phải đặt mã PIN để tiếp tục. Mã PIN này sẽ giúp bạn đăng nhập nhanh chóng và bảo vệ tài khoản của bạn."
+    },
+    {
+        "key": "STOP_LIMIT",
+        "val": "STOP LIMIT"
+    },
+    {
+        "key": "ING",
+        "val": "ING"
+    },
+    {
+        "key": "and_Trailing_Amount_at",
+        "val": "và Khối lượng Trailing tại"
+    },
+    {
+        "key": "and_Trailing_Percent_at",
+        "val": "và Phần trăm Trailing tại"
+    },
+    {
+        "key": "increases",
+        "val": "tăng"
+    },
+    {
+        "key": "decreases",
+        "val": "giảm"
+    },
+    {
+        "key": "trailing_percent",
+        "val": "phần trăm trailing"
+    },
+    {
+        "key": "Enter_your_old_PIN",
+        "val": "Nhập PIN cũ của bạn"
+    },
+    {
+        "key": "Enter_your_new_PIN",
+        "val": "Nhập PIN mới"
+    },
+    {
+        "key": "Failed_PIN_Attempt",
+        "val": "Không thành công"
+    },
+    {
+        "key": "Failed_PIN_Attempts",
+        "val": "Không thành công"
+    },
+    {
+        "key": "Enter_new_PIN",
+        "val": "Đây là lần đầu tiên bạn đăng nhập OpenMarkets Equix hoặc gần đây bạn đã đặt lại mã PIN. Vì vậy, bạn phải đặt mã PIN để tiếp tục."
+    },
+    {
+        "key": "Your_PIN_has_been_changed_successfully",
+        "val": "Bạn đã thay đổi mã PIN thành công"
+    },
+    {
+        "key": "You_must_set_a_PIN_before_closing_settings",
+        "val": "Bạn phải đặt PIN trước khi đóng Cài Đặt"
+    },
+    {
+        "key": "Show_Only_Price_Sensitive_Notifications",
+        "val": "Chỉ hiển thị Thông báo từ tag Nhạy cảm với giá"
+    },
+    {
+        "key": "Show_All_Related_News_Notifications",
+        "val": "Hiện tất cả Thông báo về Tin tức liên quan"
+    },
+    {
+        "key": "Show_On_Market_Notifications",
+        "val": "Hiện Thông báo mới"
+    },
+    {
+        "key": "Show_Filled_Notifications",
+        "val": "Hiện Thông báo Đã Khớp"
+    },
+    {
+        "key": "Show_Partial_Filled_Notifications",
+        "val": "Hiện Thông báo Đã Khớp Một Phần"
+    },
+    {
+        "key": "Show_Rejected_Order_Notifications",
+        "val": "Hiện Thông báo Lệnh bị Từ chối"
+    },
+    {
+        "key": "Show_Cancelled_Notifications",
+        "val": "Hiện Thông báo Hủy"
+    },
+    {
+        "key": "Show_Expired_Notifications",
+        "val": "Hiện thông báo Hết Hạn"
+    },
+    {
+        "key": "Change_PIN",
+        "val": "Đổi PIN"
+    },
+    {
+        "key": "Reset_Your_PIN",
+        "val": "Đặt lại PIN"
+    },
+    {
+        "key": "Please_enter_your_password",
+        "val": "Nhập mât khẩu của bạn"
+    },
+    {
+        "key": "Incorrect_Password",
+        "val": "Mật khẩu chưa đúng"
+    },
+    {
+        "key": "Version_2_7_12_build_2018",
+        "val": "Phiên bản 2.7.12 build 2018"
+    },
+    {
+        "key": "App_Store",
+        "val": "App Store"
+    },
+    {
+        "key": "Download_on_App_Store",
+        "val": "Tải về trên App Store"
+    },
+    {
+        "key": "Google_Play",
+        "val": "Google Play"
+    },
+    {
+        "key": "Android_App_on_Google_Play",
+        "val": "Android App trên Google Play"
+    },
+    {
+        "key": "Website",
+        "val": "Website"
+    },
+    {
+        "key": "Price_Source",
+        "val": "Nguồn giá"
+    },
+    {
+        "key": "Click2Refresh",
+        "val": "Click2Refresh"
+    },
+    {
+        "key": "Show_Notifications",
+        "val": "Hiện Thông báo"
+    },
+    {
+        "key": "News_Notifications",
+        "val": "Thông báo Tin tức"
+    },
+    {
+        "key": "Order_Notifications",
+        "val": "Thông báo Lệnh"
+    },
+    {
+        "key": "Authentication",
+        "val": "Xác Thực"
+    },
+    {
+        "key": "Language",
+        "val": "Ngôn ngữ"
+    },
+    {
+        "key": "PIN_did_not_match_Try_again",
+        "val": "PIN không khớp. Thử lại"
+    },
+    {
+        "key": "DarkTheme",
+        "val": "Nền tối"
+    },
+    {
+        "key": "LightTheme",
+        "val": "Nền sáng"
+    },
+    {
+        "key": "Theme",
+        "val": "Màu nền"
+    },
+    {
+        "key": "Back",
+        "val": "Trở lại"
+    },
+    {
+        "key": "--",
+        "val": "--"
+    },
+    {
+        "key": "Units_of",
+        "val": "Đơn vị"
+    },
+    {
+        "key": "Unit_of",
+        "val": "Đơn vị"
+    },
+    {
+        "key": "Actor",
+        "val": "Người thực hiện"
+    },
+    {
+        "key": "MTL",
+        "val": "MTL"
+    },
+    {
+        "key": "PendingNew",
+        "val": "Chờ khớp mới"
+    },
+    {
+        "key": "Replaced",
+        "val": "Thay thế"
+    },
+    {
+        "key": "Canceled",
+        "val": "Đã Hủy"
+    },
+    {
+        "key": "PendingCancel",
+        "val": "Chờ Hủy"
+    },
+    {
+        "key": "PendingReplace",
+        "val": "Chờ thay thế"
+    },
+    {
+        "key": "New",
+        "val": "Mới"
+    },
+    {
+        "key": "Replace",
+        "val": "Thay thế"
+    },
+    {
+        "key": "Enter_PIN",
+        "val": "Nhập PIN"
+    },
+    {
+        "key": "Market_to_Limit",
+        "val": "Market to Limit"
+    },
+    {
+        "key": "title_1",
+        "val": "Lưu/Áp dụng Layouts tùy chọn của người dùng"
+    },
+    {
+        "key": "content_1",
+        "val": "You can set up and custome your own favourite Screen Layout and save them for later usage."
+    },
+    {
+        "key": "title_2",
+        "val": "Tự động khóa (PIN) để ngăn chặn truy cập trái phép"
+    },
+    {
+        "key": "content_2",
+        "val": "The first thing you can do to protect your Account is to set your PIN. The OM Equix Web will be auto-locked after 5 minutes of inactivity. If anything looks suspicious, you can change your PIN immediately, other sessions will be immediately forced log-out."
+    },
+    {
+        "key": "title_3",
+        "val": "Tin tức thị trường"
+    },
+    {
+        "key": "content_3",
+        "val": "Related News Tab shows ASX announcements that are related to stocks in Personal watch-list and Portfolio. All Market Tab displays everything that is submitted to ASX."
+    },
+    {
+        "key": "ACCOUNT_BALANCE",
+        "val": "SỐ DƯ TÀI KHOẢN"
+    },
+    {
+        "key": "Portfolio_Summary",
+        "val": "_Portfolio Summary"
+    },
+    {
+        "key": "AVAILABLE_BALANCE",
+        "val": "SỐ DƯ SẴN CÓ"
+    },
+    {
+        "key": "CASH_AVAILABLE_TO_TRADE"
+    },
+    {
+        "key": "OPEN_ORDERS",
+        "val": "LỆNH MỞ"
+    },
+    {
+        "key": "PENDING_SETTLEMENTS",
+        "val": "CHỜ KHỚP"
+    },
+    {
+        "key": "CASH_AT_BANK",
+        "val": "TIỀN TẠI NGÂN HÀNG"
+    },
+    {
+        "key": "TOTAL_MARKET_VALUE",
+        "val": "TỔNG GIÁ TRỊ THỊ TRƯỜNG"
+    },
+    {
+        "key": "SECURITIES_AT_MARKET_VALUE"
+    },
+    {
+        "key": "TODAY’S_CHANGE",
+        "val": "THAY ĐỔI HÔM NAY"
+    },
+    {
+        "key": "%_TODAY’S_CHANGE",
+        "val": "% THAY ĐỔI HÔM NAY"
+    },
+    {
+        "key": "TOTAL_PROFIT/LOSS",
+        "val": "TỔNG LÃI/LỖ"
+    },
+    {
+        "key": "TOTAL_GAIN/LOSS"
+    },
+    {
+        "key": "%_TOTAL_PROFIT/LOSS",
+        "val": "% TỔNG LÃI/LỖ"
+    },
+    {
+        "key": "%TOTAL_GAIN/LOSS"
+    },
+    {
+        "key": "DEMO",
+        "val": "DEMO"
+    },
+    {
+        "key": "PROFIT/LOSS",
+        "val": "LÃI/LỖ"
+    },
+    {
+        "key": "%PROFIT/LOSS",
+        "val": "%LÃI/LỖ"
+    },
+    {
+        "key": "%TODAY’S_CHANGE",
+        "val": "%THAY ĐỔI HÔM NAY"
+    },
+    {
+        "key": "Financial_Summary",
+        "val": "Tóm Tắt Tài Chính"
+    },
+    {
+        "key": "Holdings_Valuation",
+        "val": "Giá Trị Nắm Giữ"
+    },
+    {
+        "key": "Cash_Account_Summary",
+        "val": "Tóm tắt Tài Khoản Tiền"
+    },
+    {
+        "key": "Transaction_Summary",
+        "val": "Tóm Tắt Giao Dịch"
+    },
+    {
+        "key": "Start_of_period",
+        "val": "Từ"
+    },
+    {
+        "key": "End_of_period",
+        "val": "Đến"
+    },
+    {
+        "key": "Filter",
+        "val": "Lọc"
+    },
+    {
+        "key": "PARITECH_CLIENT_ID",
+        "val": "ID KH PARITECH"
+    },
+    {
+        "key": "PARITECH_CLIENT_NAME",
+        "val": "TÊN KH PARITECH"
+    },
+    {
+        "key": "PARITECH_CLIENT_MAIL",
+        "val": "EMAIL KH PARITECH"
+    },
+    {
+        "key": "SAXO_CLIENT_ID",
+        "val": "ID KH SAXO"
+    },
+    {
+        "key": "SAXO_ACCOUNT_ID",
+        "val": "ID TÀI KHOẢN SAXO"
+    },
+    {
+        "key": "SAXO_CLIENT_NAME",
+        "val": "TÊN KH SAXO"
+    },
+    {
+        "key": "SAXO_ACCOUNT_VALUE",
+        "val": "GIÁ TRỊ TÀI KHOẢN SAXO"
+    },
+    {
+        "key": "TRADING_STATUS",
+        "val": "TRẠNG THÁI GIAO DỊCH"
+    },
+    {
+        "key": "Comp_Info",
+        "val": "Thông tin C.ty"
+    },
+    {
+        "key": "LIVE",
+        "val": "LIVE"
+    },
+    {
+        "key": "AUSTRALIAN_MARKETS",
+        "val": "THỊ TRƯỜNG ÚC"
+    },
+    {
+        "key": "POINTS",
+        "val": "ĐIỂM"
+    },
+    {
+        "key": "CURRENCIES",
+        "val": "TIỀN TỆ"
+    },
+    {
+        "key": "EXCHANGE_RATE",
+        "val": "TỶ GIÁ"
+    },
+    {
+        "key": "Products",
+        "val": "Sản Phẩm"
+    },
+    {
+        "key": "Equity",
+        "val": "Cổ phiếu"
+    },
+    {
+        "key": "Warrant",
+        "val": "Chứng quyền"
+    },
+    {
+        "key": "Account_Id",
+        "val": "Id Tài khoản"
+    },
+    {
+        "key": "Full_Name",
+        "val": "Tên đầy đủ"
+    },
+    {
+        "key": "HIN_Number",
+        "val": "Số HIN"
+    },
+    {
+        "key": "Work_Phone",
+        "val": "Số điện thoại làm việc"
+    },
+    {
+        "key": "Home_Phone",
+        "val": "Số điện thoại nhà riêng"
+    },
+    {
+        "key": "Fax_Number",
+        "val": "Số Fax"
+    },
+    {
+        "key": "Postal_Address",
+        "val": "Địa chỉ bưu tín"
+    },
+    {
+        "key": "User_Type",
+        "val": "Loại người dùng"
+    },
+    {
+        "key": "Advisor",
+        "val": "Người cố vấn"
+    },
+    {
+        "key": "is_not_enabled",
+        "val": "không được cho phép"
+    },
+    {
+        "key": "client_support",
+        "val": "Vui lòng liên hệ Hỗ trợ Khách hàng tại"
+    },
+    {
+        "key": "for_further_assistance",
+        "val": "để được hỗ trợ chi tiết"
+    },
+    {
+        "key": "or_email_us_at",
+        "val": "hoặc gửi email cho chúng tôi tại"
+    },
+    {
+        "key": "STAGING",
+        "val": "STAGING"
+    },
+    {
+        "key": "NEXT",
+        "val": "NEXT"
+    },
+    {
+        "key": "Market_Overview",
+        "val": "Tổng Quan Thị Trường"
+    },
+    {
+        "key": "does_not_have_linked_account_to_trade",
+        "val": "không có kết nối với Tài khoản được giao dịch"
+    },
+    {
+        "key": "Please_contact_Client_Support_on",
+        "val": "Vui lòng liên hệ Hỗ trợ Khách hàng tại"
+    },
+    {
+        "key": "Terms_of_Use",
+        "val": "Điều khoản sử dụng"
+    },
+    {
+        "key": "Account_Info",
+        "val": "Thông tin Tài khoản"
+    },
+    {
+        "key": "View_only",
+        "val": "Chỉ xem"
+    },
+    {
+        "key": "This_account_is_not_enabled",
+        "val": "Tài khoản này không được kết nối"
+    },
+    {
+        "key": "This_account_is_inactive",
+        "val": "Tài khoản này không hoạt động"
+    },
+    {
+        "key": "is_inactive"
+    },
+    {
+        "key": "USD",
+        "val": "USD"
+    },
+    {
+        "key": "Market Overview",
+        "val": "Tổng quan Thị trường"
+    },
+    {
+        "key": "Comp. Info",
+        "val": "Thông tin công ty"
+    },
+    {
+        "key": "Order_Amount"
+    },
+    {
+        "key": "TOTAL_Estimated"
+    },
+    {
+        "key": "Clear_All_Data"
+    },
+    {
+        "key": "Usd_Character"
+    },
+    {
+        "key": "OTHER_FEES_AUD"
+    },
+    {
+        "key": "GST_AUD"
+    },
+    {
+        "key": "BROKERAGE_AUD"
+    },
+    {
+        "key": "TOTAL_AUD",
+        "val": "TỔNG (AUD)"
+    },
+    {
+        "key": "EST_TOTAL_AUD"
+    },
+    {
+        "key": "EST_FEES_AUD"
+    },
+    {
+        "key": "FEES_AUD"
+    },
+    {
+        "key": "Total_AUD"
+    },
+    {
+        "key": "Fees_AUD"
+    },
+    {
+        "key": "ESTIMATED_TOTAL_AUD"
+    },
+    {
+        "key": "ESTIMATED_FEES_AUD"
+    },
+    {
+        "key": "onMarketMKT"
+    },
+    {
+        "key": "onMarketStoploss"
+    },
+    {
+        "key": "onMarketLimit"
+    },
+    {
+        "key": "onMarketStopLimit"
+    },
+    {
+        "key": "onMarketTrailingAmountStopLimit"
+    },
+    {
+        "key": "onMarketTrailingPercentStopLimit"
+    },
+    {
+        "key": "partialFillMKT"
+    },
+    {
+        "key": "partialFillStoploss"
+    },
+    {
+        "key": "partialFillLimit"
+    },
+    {
+        "key": "partialFillStopLimit"
+    },
+    {
+        "key": "partialFillTrailingAmountStopLimit"
+    },
+    {
+        "key": "partialFillTrailingPercentStopLimit"
+    },
+    {
+        "key": "filledMKT"
+    },
+    {
+        "key": "filledStoploss"
+    },
+    {
+        "key": "filledLimit"
+    },
+    {
+        "key": "filledTrailingAmountStopLimit"
+    },
+    {
+        "key": "filledTrailingPercentStopLimit"
+    },
+    {
+        "key": "cancelledMKT"
+    },
+    {
+        "key": "cancelledStoploss"
+    },
+    {
+        "key": "cancelledLimit"
+    },
+    {
+        "key": "cancelledStopLimitNotTrigger"
+    },
+    {
+        "key": "cancelledStopLimit"
+    },
+    {
+        "key": "cancelledTrailingAmountStopLimit"
+    },
+    {
+        "key": "cancelledTrailingPercentStopLimit"
+    },
+    {
+        "key": "rejectedMKT"
+    },
+    {
+        "key": "rejectedLimit"
+    },
+    {
+        "key": "rejectedStopLimit"
+    },
+    {
+        "key": "rejectedTrailingAmountStopLimit"
+    },
+    {
+        "key": "rejectedTrailingPercentStopLimit"
+    },
+    {
+        "key": "expiredMKT"
+    },
+    {
+        "key": "expiredStoploss"
+    },
+    {
+        "key": "expiredLimit"
+    },
+    {
+        "key": "expiredStopLimit"
+    },
+    {
+        "key": "expiredTrailingAmountStopLimit"
+    },
+    {
+        "key": "expiredTrailingPriceStopLimit"
+    },
+    {
+        "key": "Timeout_cannot_be_connected_server"
+    },
+    {
+        "key": "Please",
+        "val": "Vui lòng "
+    },
+    {
+        "key": "to_access_Market_Announcements",
+        "val": " để truy cập thông báo Thị Trường"
+    },
+    {
+        "key": "Admin"
+    },
+    {
+        "key": "User_vs_Client_Man"
+    },
+    {
+        "key": "User_vs_Client_Management"
+    },
+    {
+        "key": "Client_Management"
+    },
+    {
+        "key": "All_Holdings"
+    },
+    {
+        "key": "Administrator_Orders"
+    },
+    {
+        "key": "All_Orders"
+    },
+    {
+        "key": "Administrator_Portfolio"
+    },
+    {
+        "key": "Administrator_Reports"
+    },
+    {
+        "key": "Administrator_All_Orders"
+    },
+    {
+        "key": "Administrator_All_Holdings"
+    },
+    {
+        "key": "Administrator_Place_Domestic_Order"
+    },
+    {
+        "key": "UserAccount"
+    },
+    {
+        "key": "AllUser"
+    },
+    {
+        "key": "AllAccount"
+    },
+    {
+        "key": "USERLOGIN"
+    },
+    {
+        "key": "CLIENTID"
+    },
+    {
+        "key": "STATUS"
+    },
+    {
+        "key": "USERGROUP"
+    },
+    {
+        "key": "CLIENTNAME"
+    },
+    {
+        "key": "HIN"
+    },
+    {
+        "key": "ADVISOR"
+    },
+    {
+        "key": "Account_Balance"
+    },
+    {
+        "key": "NYSE-01"
+    },
+    {
+        "key": "NYSE-02"
+    },
+    {
+        "key": "NYSE-03"
+    },
+    {
+        "key": "NYSE-04"
+    },
+    {
+        "key": "NYSE-05"
+    },
+    {
+        "key": "NYSE1"
+    },
+    {
+        "key": "NYSE2"
+    },
+    {
+        "key": "NYSE3"
+    },
+    {
+        "key": "NYSE4"
+    },
+    {
+        "key": "NYSE5"
+    },
+    {
+        "key": "NASDAQ-01"
+    },
+    {
+        "key": "NASDAQ-02"
+    },
+    {
+        "key": "NASDAQ1"
+    },
+    {
+        "key": "NASDAQ2"
+    },
+    {
+        "key": "XASE"
+    },
+    {
+        "key": "AMEXStocks"
+    },
+    {
+        "key": "AMEX"
+    },
+    {
+        "key": "NYSE-ARCA"
+    },
+    {
+        "key": "NYSE_Arca"
+    },
+    {
+        "key": "ARCX"
+    },
+    {
+        "key": "CLIENT_ID"
+    },
+    {
+        "key": "CLIENT_NAME"
+    },
+    {
+        "key": "Client",
+        "val": "_Client"
+    },
+    {
+        "key": "Operator",
+        "val": "_Operator"
+    },
+    {
+        "key": "SearchAccount"
+    },
+    {
+        "key": "SearchSymbol"
+    },
+    {
+        "key": "Place_order_successfully"
+    },
+    {
+        "key": "Placing_order"
+    },
+    {
+        "key": "Modify_order_successfully"
+    },
+    {
+        "key": "Modifying_order"
+    },
+    {
+        "key": "Cancel_order_successfully"
+    },
+    {
+        "key": "Cancelling_order"
+    },
+    {
+        "key": "Portfolio_summary"
+    },
+    {
+        "key": "Cash_balance_after_settlement"
+    },
+    {
+        "key": "Securities_at_market_value"
+    },
+    {
+        "key": "Trading_analysis"
+    },
+    {
+        "key": "Cash_at_bank"
+    },
+    {
+        "key": "Pending_settlement"
+    },
+    {
+        "key": "Open_orders"
+    },
+    {
+        "key": "Cash_available_to_trade"
+    },
+    {
+        "key": "Portfolio_analysis"
+    },
+    {
+        "key": "_other"
+    },
+    {
+        "key": "Cash_equities"
+    },
+    {
+        "key": "_performance"
+    },
+    {
+        "key": "securities_at_cost"
+    },
+    {
+        "key": "Total_gain_loss"
+    },
+    {
+        "key": "percent_gain_Loss"
+    },
+    {
+        "key": "today_s_change"
+    },
+    {
+        "key": "PORTFOLIO_SUMMARY",
+        "val": "_PORTFOLIO SUMMARY"
+    },
+    {
+        "key": "SECURITIES_AT_MARKET_VALUE_UPPER",
+        "val": "_SECURITIES AT MARKET VALUE"
+    },
+    {
+        "key": "VALUE_AUD"
+    },
+    {
+        "key": "GAIN/LOSS"
+    },
+    {
+        "key": "%GAIN/LOSS"
+    },
+    {
+        "key": "Morning_Star"
+    },
+    {
+        "key": "FundamentalsDataMorningStar"
+    },
+    {
+        "key": "percent_today_s_change"
+    },
+    {
+        "key": "on_changing_infomation_and_orders"
+    },
+    {
+        "key": "after_five_minutes_of_inactive"
+    },
+    {
+        "key": "after_fifteen_minutes_of_inactive"
+    },
+    {
+        "key": "Security"
+    },
+    {
+        "key": "Tip_Rank"
+    },
+    {
+        "key": "Trading_Enabled"
+    },
+    {
+        "key": "CANCEL_ORDER"
+    },
+    {
+        "key": "MODIFY_ORDER"
+    },
+    {
+        "key": "NEW_ORDER"
+    },
+    {
+        "key": "Confirm_Order"
+    },
+    {
+        "key": "Order_Detail"
+    },
+    {
+        "key": "Detail_Order"
+    },
+    {
+        "key": "No_Internet_Connection"
+    },
+    {
+        "key": "20_Minutes_Delayed"
+    },
+    {
+        "key": "Estimated_Total_AUD"
+    },
+    {
+        "key": "Estimated_Fees_AUD"
+    },
+    {
+        "key": "ContractNote"
+    },
+    {
+        "key": "Order_Amount_AUD"
+    },
+    {
+        "key": "Order_Amount_USD"
+    },
+    {
+        "key": "OrderID_DetailOrder"
+    },
+    {
+        "key": "Stop_Trigger_Price"
+    },
+    {
+        "key": "NEW_"
+    },
+    {
+        "key": "PARTIALFILL"
+    },
+    {
+        "key": "DONEFORDAY"
+    },
+    {
+        "key": "CANCELLED"
+    },
+    {
+        "key": "REPLACED"
+    },
+    {
+        "key": "CANCELLING"
+    },
+    {
+        "key": "STOPPED"
+    },
+    {
+        "key": "REJECTED"
+    },
+    {
+        "key": "SUSPENDED"
+    },
+    {
+        "key": "PENDING"
+    },
+    {
+        "key": "EXPIRED"
+    },
+    {
+        "key": "ACCEPTEDFORBIDDING"
+    },
+    {
+        "key": "AMENDING"
+    },
+    {
+        "key": "PLACE"
+    },
+    {
+        "key": "REPLACE"
+    },
+    {
+        "key": "UNKNOWN"
+    },
+    {
+        "key": "No"
+    },
+    {
+        "key": "for"
+    },
+    {
+        "key": "Search_Symbol"
+    },
+    {
+        "key": "User_Manager"
+    },
+    {
+        "key": "Tip_Rank_Menu"
+    },
+    {
+        "key": "Business_Log"
+    },
+    {
+        "key": "query_cash_report"
+    },
+    {
+        "key": "query_holdings_report"
+    },
+    {
+        "key": "query_financial_report"
+    },
+    {
+        "key": "query_transaction_report"
+    },
+    {
+        "key": "MODIFY_SELL_ORDER"
+    },
+    {
+        "key": "MODIFY_BUY_ORDER"
+    },
+    {
+        "key": "CANCEL_SELL_ORDER"
+    },
+    {
+        "key": "CANCEL_BUY_ORDER"
+    },
+    {
+        "key": "Retail"
+    },
+    {
+        "key": "update_setting"
+    },
+    {
+        "key": "BROWSER"
+    },
+    {
+        "key": "IP_ADRESS"
+    },
+    {
+        "key": "login"
+    },
+    {
+        "key": "logout"
+    },
+    {
+        "key": "MARKET_PRICE"
+    },
+    {
+        "key": "remove_symbol"
+    },
+    {
+        "key": "add_symbol"
+    },
+    {
+        "key": "Personal_Watchlist"
+    },
+    {
+        "key": "sign_in"
+    },
+    {
+        "key": "sign_out"
+    },
+    {
+        "key": "enter_pin"
+    },
+    {
+        "key": "place_order"
+    },
+    {
+        "key": "modify_order"
+    },
+    {
+        "key": "cancel_order"
+    },
+    {
+        "key": "save_balances"
+    },
+    {
+        "key": "export_EOD"
+    },
+    {
+        "key": "sign_in_sign_out"
+    },
+    {
+        "key": "update_watchlist"
+    },
+    {
+        "key": "querry_report"
+    },
+    {
+        "key": "update_SCM"
+    },
+    {
+        "key": "Update_Setting"
+    },
+    {
+        "key": "DEVICE"
+    },
+    {
+        "key": "update_saxo_account"
+    },
+    {
+        "key": "QUERY"
+    },
+    {
+        "key": "update_symbol"
+    },
+    {
+        "key": "Delete_Templace?"
+    },
+    {
+        "key": "Overwrite?"
+    },
+    {
+        "key": "noteOrderList_1"
+    },
+    {
+        "key": "noteOrderList_2"
+    },
+    {
+        "key": "noteOrderList_3"
+    },
+    {
+        "key": "noteOrderList_4"
+    },
+    {
+        "key": "noteOrderList_5"
+    },
+    {
+        "key": "noteOrderList_6"
+    },
+    {
+        "key": "noteOrderList_7"
+    },
+    {
+        "key": "noteOrderList_8"
+    },
+    {
+        "key": "noteOrderList_9"
+    },
+    {
+        "key": "noteOrderList_10"
+    },
+    {
+        "key": "noteOrderList_11"
+    },
+    {
+        "key": "noteOrderList_12"
+    },
+    {
+        "key": "noteOrderList_13"
+    },
+    {
+        "key": "noteOrderList_14"
+    },
+    {
+        "key": "noteOrderList_15"
+    },
+    {
+        "key": "noteOrderList_16"
+    },
+    {
+        "key": "noteOrderList_17"
+    },
+    {
+        "key": "noteOrderList_18"
+    },
+    {
+        "key": "noteOrderList_19"
+    },
+    {
+        "key": "noteOrderList_20"
+    },
+    {
+        "key": "noteOrderList_21"
+    },
+    {
+        "key": "noteOrderList_22"
+    },
+    {
+        "key": "noteOrderList_23"
+    },
+    {
+        "key": "noteOrderList_24"
+    },
+    {
+        "key": "noteOrderList_25"
+    },
+    {
+        "key": "noteOrderList_26"
+    },
+    {
+        "key": "noteOrderList_27"
+    },
+    {
+        "key": "noteOrderList_28"
+    },
+    {
+        "key": "noteOrderList_29"
+    },
+    {
+        "key": "noteOrderList_30"
+    },
+    {
+        "key": "noteOrderList_31"
+    },
+    {
+        "key": "noteOrderList_32"
+    },
+    {
+        "key": "noteOrderList_33"
+    },
+    {
+        "key": "noteOrderList_34"
+    },
+    {
+        "key": "noteOrderList_35"
+    },
+    {
+        "key": "noteOrderList_36"
+    },
+    {
+        "key": "noteOrderList_37"
+    },
+    {
+        "key": "noteOrderList_38"
+    },
+    {
+        "key": "noteOrderList_39"
+    },
+    {
+        "key": "notePendingTrailingAmount"
+    },
+    {
+        "key": "notePendingTrailingPercent"
+    }
+]

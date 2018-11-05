@@ -18,12 +18,12 @@ class ListItem extends Component {
 
         return (
             <div className='row'>
-                
+
                 {/* <th><img src={data.img} alt="Smiley face" width="42" height="42"/> </th> */}
                 <th>{data.no}</th>
                 <th>{data.key}</th>
-                <th>{data.en}</th>
-                <th>{data.vi}</th>
+                <th>{data.eng}</th>
+                <th>{data.vie}</th>
             </div>
 
         );
