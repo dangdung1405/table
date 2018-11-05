@@ -8,7 +8,6 @@ import vi from './vie.json';
 
 class App extends Component {
   constructor(props) {
-
     super(props)
     console.log('constructor')
     this.state = {
