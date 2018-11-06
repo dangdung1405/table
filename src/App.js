@@ -10,24 +10,38 @@ class App extends Component {
   constructor(props) {
     super(props)
     console.log('constructor')
+    const eng = this.convertData(en)
+    const vie = this.convertData(vi)
     this.state = {
       data: [],
 
-      eng: this.convertData(en),
-      vie: this.convertData(vi)
     }
   }
 
 
   getRenderTest() {
     let listTemp = [];
-    let eng = this.state.eng
-    let vie = this.state.vie
-    const that = this;
     let count = 0;
-    Object.keys(eng).forEach(function (key) {
-      const val = eng[key];
-      const valVi = vie[key];
+    // const listData = [];
+    // for (let index = 0; index < en.length; index++) {
+    //   const enVal = en[index];
+    //   const objTemp = { key: enVal.key, eng: enVal.val }
+    //   for (let i = 0; i < vi.length; i++) {
+    //     const viVal = vi[i];
+    //     if (enVal.key === viVal.key) {
+    //       objTemp['vie'] = viVal.val
+    //       listData.push(objTemp);
+    //       break;
+    //     }
+    //   }
+    // }
+
+
+
+
+    Object.keys(this.eng).forEach(function (key) {
+      const val = this.eng[key];
+      const valVi = this.vie[key];
       count++;
       const item = {
         no: count,
@@ -39,7 +53,7 @@ class App extends Component {
 
     });
 
-    that.setState({
+    this.setState({
       data: listTemp
     })
   }
@@ -60,26 +74,21 @@ class App extends Component {
     console.log('render')
     return (
       <div className="App" >
-        <table id="customers">
-          <tbody>
-            <tr className='header'>
-              <td>no</td>
-              <td>key</td>
-              <td>en</td>
-              <td>vi</td>
-            </tr>
+        <div className="table">
 
-            {this.state.data.map((obj, index) => {
-              return <ListItem key={index} data={obj}></ListItem>
-            })}
+          <div className='row'>
+            <div className="cell">no</div>
+            <div className="cell">key</div>
+            <div className="cell">en</div>
+            <div className="cell">vi</div>
+          </div>
 
-
-          </tbody>
-        </table>
-        {/* {this.renderTest()}
-        <div onClick={this.handleOnClick}>click</div>
-        <div>{this.state.numbers}</div> */}
+          {this.state.data.map((obj, index) => {
+            return <ListItem key={index} data={obj}></ListItem>
+          })}
+        </div>
       </div>
+
     );
   }
 }

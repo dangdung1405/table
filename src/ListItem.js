@@ -15,15 +15,15 @@ class ListItem extends Component {
     render() {
         console.log("THIS", this.props.data)
         const data = this.props.data
-
+        // const key = this.props.key
         return (
             <div className='row'>
 
                 {/* <th><img src={data.img} alt="Smiley face" width="42" height="42"/> </th> */}
-                <th>{data.no}</th>
-                <th>{data.key}</th>
-                <th>{data.eng}</th>
-                <th>{data.vie}</th>
+                <div className="cell">{data.no}</div>
+                <div className="cell">{data.key}</div>
+                <div className="cell">{data.eng}</div>
+                <div className="cell">{data.vie}</div>
             </div>
 
         );

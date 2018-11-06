@@ -25,20 +25,12 @@
     
 
 }
-.header{
+/* .header{
   background-color: #27ae60;
     font-weight: 900;
     color: #ffffff;
-    /* text-align: left;    */
-
-
-
-}
-.row{
-  font-weight: 900;
-  color: #ffffff;
-  display: table-row;
-}
+    text-align: left;
+} */
 .bt {
   width: 281px;
   height: 50px;
@@ -60,3 +52,27 @@
 }
 .btn-default.btn-on.active{background-color: #5BB75B;color: white;}
 .btn-default.btn-off.active{background-color: #DA4F49;color: white;}
+
+
+
+
+.table {
+  display:table;
+}
+.header {
+  display:table-header-group;
+  font-weight:bold;
+}
+.rowGroup {
+  display:table-row-group;
+}
+
+.cell {
+  display:table-cell;
+  width:25%;
+  padding: 6px 12px;
+}
+        .row{
+            font-weight: 900;
+            display: table-row;
+          }
