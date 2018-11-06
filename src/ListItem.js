@@ -20,7 +20,7 @@ class ListItem extends Component {
             <div className='row'>
 
                 {/* <th><img src={data.img} alt="Smiley face" width="42" height="42"/> </th> */}
-                <div className="cell">{data.no}</div>
+                <div className="cellno">{data.no}</div>
                 <div className="cell">{data.key}</div>
                 <div className="cell">{data.eng}</div>
                 <div className="cell">{data.vie}</div>

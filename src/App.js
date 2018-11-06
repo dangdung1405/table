@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 // import logo from './logo.svg';
 import './App.css';
-import axios from 'axios';
 import ListItem from './ListItem';
 import en from './eng.json';
 import vi from './vie.json';
@@ -10,11 +9,11 @@ class App extends Component {
   constructor(props) {
     super(props)
     console.log('constructor')
-    const eng = this.convertData(en)
-    const vie = this.convertData(vi)
+
     this.state = {
       data: [],
-
+      eng: this.convertData(en),
+      vie: this.convertData(vi)
     }
   }
 
@@ -22,6 +21,8 @@ class App extends Component {
   getRenderTest() {
     let listTemp = [];
     let count = 0;
+    let eng = this.state.eng
+    let vie = this.state.vie
     // const listData = [];
     // for (let index = 0; index < en.length; index++) {
     //   const enVal = en[index];
@@ -39,9 +40,9 @@ class App extends Component {
 
 
 
-    Object.keys(this.eng).forEach(function (key) {
-      const val = this.eng[key];
-      const valVi = this.vie[key];
+    Object.keys(eng).forEach(function (key) {
+      const val = eng[key];
+      const valVi = vie[key];
       count++;
       const item = {
         no: count,
@@ -77,10 +78,10 @@ class App extends Component {
         <div className="table">
 
           <div className='row'>
-            <div className="cell">no</div>
-            <div className="cell">key</div>
-            <div className="cell">en</div>
-            <div className="cell">vi</div>
+            <div className="cellhdno">no</div>
+            <div className="cellhd">key</div>
+            <div className="cellhd">en</div>
+            <div className="cellhd">vi</div>
           </div>
 
           {this.state.data.map((obj, index) => {

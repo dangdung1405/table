@@ -1,78 +1,75 @@
-#customers {
-  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
-  border-collapse: collapse;
-  width: 100%;
-  
-}
-
-#customers td, #customers th {
-  padding: 6px 12px;
-  display: table-cell;
-  
-}
-
-#customers tr:nth-child(even){background-color: #f2f2f2;}
-
-#customers tr:hover {background-color: #ddd;}
-
-#customers th {
-  font-family: "Helvetica Neue", Helvetica, Arial;
-    font-size: 14px;
-    line-height: 20px;
-    font-weight: 400;
-    color: #3b3b3b;
-    -webkit-font-smoothing: antialiased;
-    
-
-}
-/* .header{
-  background-color: #27ae60;
-    font-weight: 900;
-    color: #ffffff;
-    text-align: left;
-} */
-.bt {
-  width: 281px;
-  height: 50px;
-  background-color: rgb(242, 22, 22);
-  color: rgb(18, 1, 208);
-  font-weight: 400;
-  font-size: 18px;
-  line-height: 28px;
-}
-
-.bt2{
-  width: 281px;
-  height: 50px;
-  background-color: green;
-  color: rgb(4, 179, 54);
-  font-weight: 400;
-  font-size: 18px;
-  line-height: 28px;
-}
-.btn-default.btn-on.active{background-color: #5BB75B;color: white;}
-.btn-default.btn-off.active{background-color: #DA4F49;color: white;}
-
-
-
-
 .table {
-  display:table;
-}
-.header {
-  display:table-header-group;
-  font-weight:bold;
+  width: 100%;
 }
 .rowGroup {
   display:table-row-group;
 }
-
-.cell {
-  display:table-cell;
-  width:25%;
-  padding: 6px 12px;
+.cell + .cell {
+  border-left: none;
 }
-        .row{
-            font-weight: 900;
-            display: table-row;
-          }
+
+.row > .cell {
+  border-bottom: none;
+}
+
+.row:last-child > .cell {
+  border-bottom: #000 solid 1px;
+}
+.cell {
+  width: 30%;
+  padding: 6px 12px;
+  display: inline-block;
+  box-sizing: border-box;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+  
+
+.row:nth-child(even) {
+  background: #cccccc;
+}
+.row{
+  font-weight: 900;
+    color: rgb(0, 0, 0);
+    border-collapse: collapse;
+    line-height: 1.42857143;
+    resize: both;
+    overflow: hidden;
+    /* display: inline-block; (theo cot)*/
+    box-sizing: border-box;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+.cellhd {
+    display: inline-block;
+    width: 30%;
+    padding: 6px 12px;
+    background-color: #27ae60;
+    color: #f2f2f2;
+    box-sizing: border-box;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.cellhdno {
+  display: inline-block;
+  width: 10%;
+  padding: 6px 12px;
+  background-color: #27ae60;
+  color: #f2f2f2;
+  box-sizing: border-box;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.cellno {
+  width: 10%;
+  padding: 6px 12px;
+  display: inline-block;
+  box-sizing: border-box;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
